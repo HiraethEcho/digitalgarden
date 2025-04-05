@@ -1,5 +1,5 @@
 ---
-{"title":"用mkdocs、obsidian、zotero搭建个人wiki","toc":true,"tags":["second_brain"],"published":false,"date":"2024-10-15 13:48:01","dg-publish":true,"permalink":"/wiki/code/3in1wiki/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"用mkdocs、obsidian、zotero搭建个人wiki","toc":true,"tags":["second_brain"],"published":false,"date":"2024-10-15","dg-publish":true,"permalink":"/wiki/code/3in1wiki/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
