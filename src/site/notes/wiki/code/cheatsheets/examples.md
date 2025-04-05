@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/cheatsheets/examples/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/wiki/code/cheatsheets/examples/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
