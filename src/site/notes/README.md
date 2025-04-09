@@ -100,7 +100,7 @@ This is my Obsidian Vault.
 ## 最近编辑
 | 标题                                  | 时间                       |
 | ----------------------------------- | ------------------------ |
-| [[wiki/code/obsidian\|obsidian]] | 3:02 PM - April 09, 2025 |
+| [[wiki/code/obsidian\|obsidian]] | 3:11 PM - April 09, 2025 |
 | [[wiki/code/sync\|sync]]         | 1:58 PM - April 09, 2025 |
 | [[README\|README]]               | 1:40 PM - April 09, 2025 |
 | [[hexo/test\|test]]              | 1:40 PM - April 09, 2025 |
