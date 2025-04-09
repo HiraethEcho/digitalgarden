@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/arch/archpostinstall/","title":"安装后的建议配置","tags":["arch"]}
+{"dg-publish":true,"permalink":"/wiki/code/arch/archpostinstall/","title":"安装后的建议配置","tags":["arch"],"noteIcon":""}
 ---
 
 

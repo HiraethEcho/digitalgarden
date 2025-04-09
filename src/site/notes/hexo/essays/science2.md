@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hexo/essays/science2/","title":"作为一种方法论的科学"}
+{"dg-publish":true,"permalink":"/hexo/essays/science2/","title":"作为一种方法论的科学","noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/math/bchm/intro/","title":"Introduction to MMP"}
+{"dg-publish":true,"permalink":"/wiki/math/bchm/intro/","title":"Introduction to MMP","noteIcon":""}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/cheatsheets/examples/","title":"本站和markdown的语法"}
+{"dg-publish":true,"permalink":"/wiki/code/cheatsheets/examples/","title":"本站和markdown的语法","noteIcon":""}
 ---
 
 
