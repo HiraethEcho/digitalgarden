@@ -1,5 +1,5 @@
 ---
-{"title":"当代危机和存在主义","tags":["philosophy","life","existence"],"published":true,"date":"2024-03-02","updated":"2024-11-2","categories":null,"index_img":null,"archive":null,"password":null,"excerpt":"不负责任地介绍一下存在主义危机和应对","dg-publish":true,"permalink":"/hexo/essays/introexistentialism/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/hexo/essays/introexistentialism/","title":"当代危机和存在主义","tags":["philosophy","life","existence"]}
 ---
 
 
