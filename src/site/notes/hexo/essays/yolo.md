@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hexo/essays/yolo/","title":"《热辣滚烫》观后感","tags":["影评"],"noteIcon":"","updated":"2024-02-20 10:25"}
+{"title":"《热辣滚烫》观后感","tags":["影评"],"published":true,"date":"2024-02-19","updated":"2024-02-20 10:25","excerpt":"贾玲私人化的电影，匮乏平庸的故事，高完成度的表达，令人作呕的宣传。","dg-publish":true,"permalink":"/hexo/essays/yolo/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

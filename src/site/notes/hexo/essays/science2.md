@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hexo/essays/science2/","title":"作为一种方法论的科学","noteIcon":""}
+{"title":"作为一种方法论的科学","tags":null,"published":false,"date":null,"updated":null,"categories":null,"index_img":null,"archive":null,"password":null,"excerpt":null,"mathjax":null,"dg-publish":true,"permalink":"/hexo/essays/science2/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 

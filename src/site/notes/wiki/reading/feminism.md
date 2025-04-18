@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/reading/feminism/","title":"《女性主义》","tags":["feminism"],"noteIcon":""}
+{"title":"《女性主义》","toc":true,"date":"2024-11-07","update":"2024-11-17","tags":["feminism"],"categories":null,"dg-publish":true,"permalink":"/wiki/reading/feminism/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
