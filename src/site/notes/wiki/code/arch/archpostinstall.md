@@ -1,5 +1,5 @@
 ---
-{"title":"安装后的建议配置","toc":true,"tags":["arch"],"date":"2024-11-18","dg-publish":true,"permalink":"/wiki/code/arch/archpostinstall/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/wiki/code/arch/archpostinstall/","title":"安装后的建议配置","tags":["arch"]}
 ---
 
 

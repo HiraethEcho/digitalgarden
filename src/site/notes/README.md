@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/readme/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/readme/"}
 ---
 
 

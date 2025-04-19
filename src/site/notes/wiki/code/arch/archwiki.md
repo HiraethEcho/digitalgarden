@@ -1,5 +1,5 @@
 ---
-{"title":"ArchWiki摘抄","toc":true,"tags":["arch","linux"],"date":"2025-01-03","dg-publish":true,"permalink":"/wiki/code/arch/archwiki/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/wiki/code/arch/archwiki/","title":"ArchWiki摘抄","tags":["arch","linux"]}
 ---
 
 
