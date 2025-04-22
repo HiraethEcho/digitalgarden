@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/ssh/","title":"About ssh"}
+{"title":"About ssh","toc":true,"tags":null,"date":"2025-04-13","dg-publish":true,"permalink":"/wiki/code/ssh/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
