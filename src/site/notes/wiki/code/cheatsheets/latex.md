@@ -1,5 +1,5 @@
 ---
-{"title":"Latex Tricks","toc":true,"tags":["latex"],"date":"2025-05-04","dg-publish":true,"permalink":"/wiki/code/cheatsheets/latex/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"Latex Tricks","toc":true,"tags":["latex"],"date":"2025-05-04","dg-publish":true,"permalink":"/wiki/code/cheatsheets/latex/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-04T17:46:33.164+08:00"}
 ---
 
 

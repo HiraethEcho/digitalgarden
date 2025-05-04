@@ -1,5 +1,5 @@
 ---
-{"title":"sed cheatsheet","toc":true,"tags":null,"date":"2025-05-01","dg-publish":true,"permalink":"/wiki/code/cheatsheets/sed/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"sed cheatsheet","toc":true,"tags":null,"date":"2025-05-01","dg-publish":true,"permalink":"/wiki/code/cheatsheets/sed/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-02T14:09:45.539+08:00"}
 ---
 
 

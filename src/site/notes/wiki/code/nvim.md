@@ -1,5 +1,5 @@
 ---
-{"title":"My Neovim Config","toc":true,"tags":["arch","code"],"date":"2024-11-18","update":null,"dg-publish":true,"permalink":"/wiki/code/nvim/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"My Neovim Config","toc":true,"tags":["arch","code"],"date":"2024-11-18","update":null,"dg-publish":true,"permalink":"/wiki/code/nvim/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-10T15:07:05.962+08:00"}
 ---
 
 

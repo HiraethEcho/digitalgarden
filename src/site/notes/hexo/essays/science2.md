@@ -1,5 +1,5 @@
 ---
-{"title":"作为一种方法论的科学","tags":null,"published":false,"date":"2025-04-24","excerpt":"谈谈对科学这一概念的看法。","dg-publish":true,"permalink":"/hexo/essays/science2/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"作为一种方法论的科学","tags":null,"published":false,"date":"2025-04-24","excerpt":"谈谈对科学这一概念的看法。","dg-publish":true,"permalink":"/hexo/essays/science2/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-10T15:07:04.990+08:00"}
 ---
 
 

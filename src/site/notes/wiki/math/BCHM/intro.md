@@ -1,5 +1,5 @@
 ---
-{"title":"Introduction to MMP","toc":true,"tags":null,"date":"2023-10-18","dg-publish":true,"permalink":"/wiki/math/bchm/intro/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"Introduction to MMP","toc":true,"tags":null,"date":"2023-10-18","dg-publish":true,"permalink":"/wiki/math/bchm/intro/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-10T15:07:06.007+08:00"}
 ---
 
 

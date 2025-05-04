@@ -1,5 +1,5 @@
 ---
-{"title":"影评","tags":null,"published":true,"version":"draft","date":"2025-04-25","updated":null,"excerpt":"持续更新的短影评或影评链接","dg-publish":true,"permalink":"/hexo/dynamic/films/","dgPassFrontmatter":true,"noteIcon":""}
+{"title":"影评","tags":null,"published":true,"version":"draft","date":"2025-04-25","updated":null,"excerpt":"持续更新的短影评或影评链接","dg-publish":true,"permalink":"/hexo/dynamic/films/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-04T15:24:26.474+08:00"}
 ---
 
 
