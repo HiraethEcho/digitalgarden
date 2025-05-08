@@ -1,10 +1,9 @@
 ---
-{"title":"sed cheatsheet","toc":true,"tags":null,"date":"2025-05-01","dg-publish":true,"permalink":"/wiki/code/cheatsheets/sed/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-02T14:09:45.539+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/cheatsheets/sed/","title":"sed cheatsheet","tags":["handbook"]}
 ---
 
 
 # sed
-
 
 ## tldr
 
@@ -26,7 +25,6 @@ Case insensitive search
 ```sh
 $ sed -n '/hello/Ip' file.txt
 ```
-
 
 ### Sed Usage
 
@@ -85,7 +83,6 @@ $ sed 's/old/new/g' file.txt > new.txt
 $ sed 's/old/new/g' -i file.txt
 $ sed 's/old/new/g' -i.backup file.txt
 ```
-
 
 ### Sed Usage
 
@@ -424,7 +421,6 @@ $ sed '/regex/{x;p;x;G;}'
 ## Also see {.cols-1}
 
 - [sed cheatsheet](https://gist.github.com/ssstonebraker/6140154) _(gist.github.com)_
-
 
 > 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [quickref.me](https://quickref.me/sed.html)
 

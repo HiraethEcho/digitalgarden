@@ -1,5 +1,5 @@
 ---
-{"title":"用mkdocs、obsidian、zotero搭建在线文献学习笔记","toc":true,"tags":["second_brain"],"published":false,"date":"2024-10-15","dg-publish":true,"permalink":"/wiki/code/3in1wiki/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-10T15:07:05.952+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/3in1wiki/","title":"用mkdocs、obsidian、zotero搭建在线文献学习笔记","tags":["pkm"]}
 ---
 
 

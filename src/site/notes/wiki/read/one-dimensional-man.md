@@ -1,5 +1,5 @@
 ---
-{"title":"《单向度的人：发达工业社会意识形态研究》读后感","tags":["philosophy","ideology","书评"],"excerpt":"什么是单向度？它是如何形成的？保护自己的思想，不成为单向度的人？","date":"2023-10-01","dg-publish":true,"permalink":"/wiki/read/one-dimensional-man/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-04T15:24:26.484+08:00"}
+{"dg-publish":true,"permalink":"/wiki/read/one-dimensional-man/","title":"《单向度的人：发达工业社会意识形态研究》读后感","tags":["philosophy","ideology","书评"]}
 ---
 
 

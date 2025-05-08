@@ -1,5 +1,5 @@
 ---
-{"title":"教科书","toc":true,"tags":null,"date":"2025-01-13","dg-publish":true,"permalink":"/wiki/read/textbook/index/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-05-03T19:04:52.815+08:00"}
+{"dg-publish":true,"permalink":"/wiki/read/textbook/index/","title":"教科书"}
 ---
 
 

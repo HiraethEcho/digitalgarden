@@ -1,5 +1,5 @@
 ---
-{"title":"作为一种方法论的科学","tags":null,"published":false,"date":"2025-04-24","excerpt":"谈谈对科学这一概念的看法。","dg-publish":true,"permalink":"/hexo/essays/science2/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-04-10T15:07:04.990+08:00"}
+{"dg-publish":true,"permalink":"/hexo/essays/science2/","title":"作为一种方法论的科学","tags":["science","philosophy","free","knowledge"]}
 ---
 
 
@@ -106,7 +106,6 @@
 
 简而言之，如无必要，勿增实体。同样的效果为前期，采取更少假设、更简单的理论。  
 这里有两种不同的认识：如爱因斯坦，是从（他的）哲学观点或审美出发，认为宇宙*应当*是简洁的；但更无情一些的看法则相反，选取更简洁的理论只是为了更小的人类智力方面的开销。
-
 
 ## 选择科学...吗？
 
