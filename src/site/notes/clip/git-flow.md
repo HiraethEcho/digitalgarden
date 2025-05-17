@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/git-flow/","title":"git-flow cheatsheet"}
+{"dg-publish":true,"permalink":"/clip/git-flow/","title":"git-flow"}
 ---
 
 
