@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/xephyr-arch-wiki/","title":"Xephyr - ArchWiki"}
+{"dg-publish":true,"permalink":"/clip/XephyrArchWiki/","title":"Xephyr - ArchWiki"}
 ---
 
 **Xephyr** is a nested X server that runs as an X application.
