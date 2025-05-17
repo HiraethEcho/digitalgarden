@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/git-worktree/","title":"Git Worktree"}
+{"dg-publish":true,"permalink":"/clip/GitWorktree/","title":"worktree"}
 ---
 
 
