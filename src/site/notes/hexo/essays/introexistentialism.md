@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hexo/essays/introexistentialism/","title":"当代危机和存在主义","tags":["philosophy","life","existence"]}
+{"dg-publish":true,"dg-path":"blog/essays/introexistentialism.md","permalink":"/blog/essays/introexistentialism/","title":"当代危机和存在主义","tags":["philosophy","life","existence"]}
 ---
 
 

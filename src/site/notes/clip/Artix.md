@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/artix/","title":"ArtixOpenRC"}
+{"dg-publish":true,"permalink":"/clip/Artix/","title":"ArtixOpenRC"}
 ---
 
 

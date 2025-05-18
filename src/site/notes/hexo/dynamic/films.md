@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hexo/dynamic/films/","title":"影评"}
+{"dg-publish":true,"dg-path":"blog/dynamic/films.md","permalink":"/blog/dynamic/films/","title":"影评"}
 ---
 
 

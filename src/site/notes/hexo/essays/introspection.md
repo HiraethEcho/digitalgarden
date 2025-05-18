@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hexo/essays/introspection/","title":"一些反思","tags":["talkshow"]}
+{"dg-publish":true,"dg-path":"blog/essays/introspection.md","permalink":"/blog/essays/introspection/","title":"一些反思","tags":["talkshow"]}
 ---
 
 
