@@ -30,12 +30,12 @@
 | [[hexo/essays/man-femalist\|man-femalist]]                          | 身为男性的女权主义者           | <ul><li>feminism</li></ul>                                                  | draft   |
 | [[hexo/essays/mrlady\|mrlady]]                                      | 先生女士                 | <ul><li>feminism</li></ul>                                                  | draft   |
 | [[hexo/essays/prima_pacie\|prima_pacie]]                            | 《初步举证》               | <ul><li>影评</li><li>feminism</li></ul>                                       | draft   |
-| [[hexo/essays/readandwrite\|readandwrite]]                          | readandwrite         | <ul><li>life</li></ul>                                                      | draft   |
 | [[hexo/essays/suffragette\|suffragette]]                            | suffragette          | <ul><li>feminism</li><li>ideology</li></ul>                                 | draft   |
 | [[hexo/memo/abuselanguage\|abuselanguage]]                          | 对语言的滥用               | <ul><li>talkshow</li></ul>                                                  | draft   |
 | [[hexo/memo/fucklinus\|fucklinus]]                                  | So Linus, Fuck you!  | <ul><li>irl</li></ul>                                                       | draft   |
 | [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗              | <ul><li>life</li><li>philosophy</li></ul>                                   | draft   |
 | [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向             | <ul><li>philosophy</li></ul>                                                | draft   |
+| [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite         | <ul><li>life</li></ul>                                                      | draft   |
 | [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫               | <ul><li>life</li><li>media</li><li>philosophy</li></ul>                     | draft   |
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair         | <ul><li>memo</li></ul>                                                      | draft   |
 | [[hexo/essays/art9game\|art9game]]                                  | 第九艺术                 | <ul><li>art</li></ul>                                                       | beta    |
@@ -116,12 +116,12 @@ draft:
 | [[hexo/essays/man-femalist\|man-femalist]]                          | 身为男性的女权主义者          | 一直想要写一些女性主义话题的东西，但是不知道从何说起。不如从个人身份切入，先漫无边际地随意聊聊。 | <ul><li>feminism</li></ul>                                  |
 | [[hexo/essays/mrlady\|mrlady]]                                      | 先生女士                | \-                                               | <ul><li>feminism</li></ul>                                  |
 | [[hexo/essays/prima_pacie\|prima_pacie]]                            | 《初步举证》              | 法律、司法、男性和性文化，谁是罪魁祸首                              | <ul><li>影评</li><li>feminism</li></ul>                       |
-| [[hexo/essays/readandwrite\|readandwrite]]                          | readandwrite        | 为什么读书与写作？                                        | <ul><li>life</li></ul>                                      |
-| [[hexo/essays/suffragette\|suffragette]]                            | suffragette         | \-                                               | <ul><li>feminism</li><li>ideology</li></ul>                 |
+| [[hexo/essays/suffragette\|suffragette]]                            | suffragette         | 关于女性获取政治权力的文艺作品                                  | <ul><li>feminism</li><li>ideology</li></ul>                 |
 | [[hexo/memo/abuselanguage\|abuselanguage]]                          | 对语言的滥用              | 被乔治·卡琳启发，对使用语言的一些想法                              | <ul><li>talkshow</li></ul>                                  |
 | [[hexo/memo/fucklinus\|fucklinus]]                                  | So Linus, Fuck you! | 自由何去何从？                                          | <ul><li>irl</li></ul>                                       |
 | [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗             | 有病也不治                                            | <ul><li>life</li><li>philosophy</li></ul>                   |
 | [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向            | 社会学、西马似乎对未来有一种悲观倾向                               | <ul><li>philosophy</li></ul>                                |
+| [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite        | 为什么读书与写作？                                        | <ul><li>life</li></ul>                                      |
 | [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫              | 心理生理文化观念上的不正常人是什么，以及如何对待他们或自处。                   | <ul><li>life</li><li>media</li><li>philosophy</li></ul>     |
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair        | 不干不净的衣服放在椅子上。这个世界似乎就是这个状态                        | <ul><li>memo</li></ul>                                      |
 
@@ -141,12 +141,12 @@ others:-->
 | [[hexo/essays/man-femalist\|man-femalist]]                          | 身为男性的女权主义者          | <ul><li>feminism</li></ul>                                  |
 | [[hexo/essays/mrlady\|mrlady]]                                      | 先生女士                | <ul><li>feminism</li></ul>                                  |
 | [[hexo/essays/prima_pacie\|prima_pacie]]                            | 《初步举证》              | <ul><li>影评</li><li>feminism</li></ul>                       |
-| [[hexo/essays/readandwrite\|readandwrite]]                          | readandwrite        | <ul><li>life</li></ul>                                      |
 | [[hexo/essays/suffragette\|suffragette]]                            | suffragette         | <ul><li>feminism</li><li>ideology</li></ul>                 |
 | [[hexo/memo/abuselanguage\|abuselanguage]]                          | 对语言的滥用              | <ul><li>talkshow</li></ul>                                  |
 | [[hexo/memo/fucklinus\|fucklinus]]                                  | So Linus, Fuck you! | <ul><li>irl</li></ul>                                       |
 | [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗             | <ul><li>life</li><li>philosophy</li></ul>                   |
 | [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向            | <ul><li>philosophy</li></ul>                                |
+| [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite        | <ul><li>life</li></ul>                                      |
 | [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫              | <ul><li>life</li><li>media</li><li>philosophy</li></ul>     |
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair        | <ul><li>memo</li></ul>                                      |
 
