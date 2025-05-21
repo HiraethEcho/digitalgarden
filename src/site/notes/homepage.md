@@ -35,9 +35,9 @@
 | [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗              | <ul><li>life</li><li>philosophy</li></ul>                                   | draft   |
 | [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向             | <ul><li>philosophy</li></ul>                                                | draft   |
 | [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite         | <ul><li>life</li></ul>                                                      | draft   |
+| [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯               | <ul><li>philosophy</li><li>life</li><li>death</li></ul>                     | draft   |
 | [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫               | <ul><li>life</li><li>media</li><li>philosophy</li></ul>                     | draft   |
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair         | <ul><li>memo</li></ul>                                                      | draft   |
-| [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯               | <ul><li>philosophy</li><li>life</li><li>death</li></ul>                     | draft   |
 | [[hexo/essays/art9game\|art9game]]                                  | 第九艺术                 | <ul><li>art</li></ul>                                                       | beta    |
 | [[hexo/essays/herstory\|herstory]]                                  | 不要玩他们的游戏             | <ul><li>影评</li><li>feminism</li></ul>                                       | beta    |
 | [[hexo/essays/jumping\|jumping]]                                    | 阿里巴巴后续               | <ul><li>media</li></ul>                                                     | beta    |
@@ -121,9 +121,9 @@ draft:
 | [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗             | 有病也不治                                            | <ul><li>life</li><li>philosophy</li></ul>                   |
 | [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向            | 社会学、西马似乎对未来有一种悲观倾向                               | <ul><li>philosophy</li></ul>                                |
 | [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite        | 为什么读书与写作？                                        | <ul><li>life</li></ul>                                      |
+| [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯              | 饥饿，不是因为高尚而是因为没有找到喜欢的食物；走向绞刑架，自知又逃避。              | <ul><li>philosophy</li><li>life</li><li>death</li></ul>     |
 | [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫              | 心理生理文化观念上的不正常人是什么，以及如何对待他们或自处。                   | <ul><li>life</li><li>media</li><li>philosophy</li></ul>     |
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair        | 不干不净的衣服放在椅子上。这个世界似乎就是这个状态                        | <ul><li>memo</li></ul>                                      |
-| [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯              | 饥饿，不是因为高尚而是因为没有找到喜欢的食物；走向绞刑架，自知又逃避。              | <ul><li>philosophy</li><li>life</li><li>death</li></ul>     |
 
 { .block-language-dataview}
 others:-->
@@ -146,9 +146,9 @@ others:-->
 | [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗             | <ul><li>life</li><li>philosophy</li></ul>                   |
 | [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向            | <ul><li>philosophy</li></ul>                                |
 | [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite        | <ul><li>life</li></ul>                                      |
+| [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯              | <ul><li>philosophy</li><li>life</li><li>death</li></ul>     |
 | [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫              | <ul><li>life</li><li>media</li><li>philosophy</li></ul>     |
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair        | <ul><li>memo</li></ul>                                      |
-| [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯              | <ul><li>philosophy</li><li>life</li><li>death</li></ul>     |
 
 { .block-language-dataview}
 
