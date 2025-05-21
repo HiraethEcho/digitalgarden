@@ -22,7 +22,6 @@
 | [[hexo/memo/whyblog\|whyblog]]                                      | 为什么写博客？              | <ul><li>memo</li><li>life</li></ul>                                         | rc      |
 | [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白           | <ul><li>philosophy</li><li>life</li><li>existence</li></ul>                 | draft   |
 | [[hexo/contemplation/liveinpostmodernworld\|liveinpostmodernworld]] | 后现代生活                | <ul><li>life</li><li>society</li><li>ideology</li></ul>                     | draft   |
-| [[hexo/contemplation/shoelace\|shoelace]]                           | 饥饿的死刑犯               | <ul><li>philosophy</li><li>life</li><li>death</li></ul>                     | draft   |
 | [[hexo/dynamic/films\|films]]                                       | 影评                   | \-                                                                          | draft   |
 | [[hexo/essays/femalism_films\|femalism_films]]                      | 口嗨女性主义电影             | <ul><li>feminism</li><li>影评</li></ul>                                       | draft   |
 | [[hexo/essays/gay\|gay]]                                            | 从男同看父权制              | <ul><li>feminism</li><li>rights</li></ul>                                   | draft   |
@@ -38,6 +37,7 @@
 | [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite         | <ul><li>life</li></ul>                                                      | draft   |
 | [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫               | <ul><li>life</li><li>media</li><li>philosophy</li></ul>                     | draft   |
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair         | <ul><li>memo</li></ul>                                                      | draft   |
+| [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯               | <ul><li>philosophy</li><li>life</li><li>death</li></ul>                     | draft   |
 | [[hexo/essays/art9game\|art9game]]                                  | 第九艺术                 | <ul><li>art</li></ul>                                                       | beta    |
 | [[hexo/essays/herstory\|herstory]]                                  | 不要玩他们的游戏             | <ul><li>影评</li><li>feminism</li></ul>                                       | beta    |
 | [[hexo/essays/jumping\|jumping]]                                    | 阿里巴巴后续               | <ul><li>media</li></ul>                                                     | beta    |
@@ -108,7 +108,6 @@ draft:
 | ---------------------------------------------------------------------- | ------------------- | ------------------------------------------------ | ----------------------------------------------------------- |
 | [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白          | 它决不能使我屈服！                                        | <ul><li>philosophy</li><li>life</li><li>existence</li></ul> |
 | [[hexo/contemplation/liveinpostmodernworld\|liveinpostmodernworld]] | 后现代生活               | 支离破碎的生活                                          | <ul><li>life</li><li>society</li><li>ideology</li></ul>     |
-| [[hexo/contemplation/shoelace\|shoelace]]                           | 饥饿的死刑犯              | 饥饿，不是因为高尚而是因为没有找到喜欢的食物；走向绞刑架，自知又逃避。              | <ul><li>philosophy</li><li>life</li><li>death</li></ul>     |
 | [[hexo/dynamic/films\|films]]                                       | 影评                  | 持续更新的短影评或影评链接                                    | \-                                                          |
 | [[hexo/essays/femalism_films\|femalism_films]]                      | 口嗨女性主义电影            | 集中评论几部女性主义电影                                     | <ul><li>feminism</li><li>影评</li></ul>                       |
 | [[hexo/essays/gay\|gay]]                                            | 从男同看父权制             | \-                                               | <ul><li>feminism</li><li>rights</li></ul>                   |
@@ -124,6 +123,7 @@ draft:
 | [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite        | 为什么读书与写作？                                        | <ul><li>life</li></ul>                                      |
 | [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫              | 心理生理文化观念上的不正常人是什么，以及如何对待他们或自处。                   | <ul><li>life</li><li>media</li><li>philosophy</li></ul>     |
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair        | 不干不净的衣服放在椅子上。这个世界似乎就是这个状态                        | <ul><li>memo</li></ul>                                      |
+| [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯              | 饥饿，不是因为高尚而是因为没有找到喜欢的食物；走向绞刑架，自知又逃避。              | <ul><li>philosophy</li><li>life</li><li>death</li></ul>     |
 
 { .block-language-dataview}
 others:-->
@@ -133,7 +133,6 @@ others:-->
 | ---------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------- |
 | [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白          | <ul><li>philosophy</li><li>life</li><li>existence</li></ul> |
 | [[hexo/contemplation/liveinpostmodernworld\|liveinpostmodernworld]] | 后现代生活               | <ul><li>life</li><li>society</li><li>ideology</li></ul>     |
-| [[hexo/contemplation/shoelace\|shoelace]]                           | 饥饿的死刑犯              | <ul><li>philosophy</li><li>life</li><li>death</li></ul>     |
 | [[hexo/dynamic/films\|films]]                                       | 影评                  | \-                                                          |
 | [[hexo/essays/femalism_films\|femalism_films]]                      | 口嗨女性主义电影            | <ul><li>feminism</li><li>影评</li></ul>                       |
 | [[hexo/essays/gay\|gay]]                                            | 从男同看父权制             | <ul><li>feminism</li><li>rights</li></ul>                   |
@@ -149,6 +148,7 @@ others:-->
 | [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite        | <ul><li>life</li></ul>                                      |
 | [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫              | <ul><li>life</li><li>media</li><li>philosophy</li></ul>     |
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair        | <ul><li>memo</li></ul>                                      |
+| [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯              | <ul><li>philosophy</li><li>life</li><li>death</li></ul>     |
 
 { .block-language-dataview}
 
