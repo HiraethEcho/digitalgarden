@@ -75,6 +75,7 @@
 | [[hexo/memo/heartofpoplar\|heartofpoplar]]                          | heartofpoplar        | \-                                                                          | \-      |
 | [[hexo/memo/idiot\|idiot]]                                          | 《白痴》！                | <ul><li>书评</li><li>剧评</li></ul>                                             | \-      |
 | [[hexo/memo/kafka\|kafka]]                                          | kafka                | <ul><li>书评</li></ul>                                                        | \-      |
+| [[hexo/memo/pet\|pet]]                                              | 驯化宠物                 | <ul><li>life</li></ul>                                                      | \-      |
 | [[hexo/memo/reply_mp\|reply_mp]]                                    | 对公众号的回复              | <ul><li>media</li></ul>                                                     | \-      |
 | [[hexo/test\|test]]                                                 | 测试                   | \-                                                                          | \-      |
 
