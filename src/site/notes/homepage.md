@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Hiraeth's Digital Garden","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/homepage/","title":"Hiraeth's Digital Garden","tags":["gardenEntry"],"created":"2025-05-15T13:43:59.062+08:00"}
 ---
 
 
@@ -153,28 +153,3 @@ others:-->
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair        | <ul><li>memo</li></ul>                                      |
 
 { .block-language-dataview}
-
-
-## tags
-
-<pre class="dataview dataview-error">Evaluation Error: Error: Failed to parse query in 'pagePaths': Error: 
--- PARSING FAILED --------------------------------------------------
-
-&gt; 1 | #[object
-    |  ^
-
-Expected one of the following: 
-
-'and' or 'or', EOF, text
-
-    at DataviewApi.pagePaths (plugin:dataview:19333:19)
-    at DataviewApi.pages (plugin:dataview:19355:21)
-    at DataviewInlineApi.pages (plugin:dataview:18802:25)
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:3:17)
-    at eval (plugin:dataview:8447:24)
-    at Array.sort (&lt;anonymous&gt;)
-    at Proxy.sort (plugin:dataview:8445:14)
-    at eval (eval at &lt;anonymous&gt; (plugin:dataview), &lt;anonymous&gt;:3:4)
-    at DataviewInlineApi.eval (plugin:dataview:19027:16)
-    at evalInContext (plugin:dataview:19028:7)</pre>
-

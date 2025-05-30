@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/cheatsheets/sed/","title":"sed cheatsheet","tags":["handbook"]}
+{"dg-publish":true,"permalink":"/wiki/code/cheatsheets/sed/","title":"sed cheatsheet","tags":["handbook"],"created":"2025-05-23T20:54:11.712+08:00"}
 ---
 
 

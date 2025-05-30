@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Linux配置打印机/","title":"终于可以在 Linux 下愉快打印了：Linux 发行版配置打印机攻略 - 少数派"}
+{"dg-publish":true,"permalink":"/clip/Linux配置打印机/","title":"终于可以在 Linux 下愉快打印了：Linux 发行版配置打印机攻略 - 少数派","created":"2025-05-13T13:46:35.678+08:00"}
 ---
 
 ![](https://cdnfile.sspai.com//2024/7/15/article/48aa4cdd-2842-18a8-0e1a-40a36af77052.jpeg?imageMogr2/auto-orient/thumbnail/!750x720r/gravity/center/crop/750x720/format/webp/ignore-error/1)

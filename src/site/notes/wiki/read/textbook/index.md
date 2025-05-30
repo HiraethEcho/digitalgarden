@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/read/textbook/index/","title":"教科书"}
+{"dg-publish":true,"permalink":"/wiki/read/textbook/index/","title":"教科书","created":"2025-05-08T19:30:44.225+08:00"}
 ---
 
 

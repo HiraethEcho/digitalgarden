@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/read/one-dimensional-man/","title":"《单向度的人：发达工业社会意识形态研究》读后感","tags":["philosophy","ideology","书评"]}
+{"dg-publish":true,"permalink":"/wiki/read/one-dimensional-man/","title":"《单向度的人：发达工业社会意识形态研究》读后感","tags":["philosophy","ideology","书评"],"created":"2025-05-08T19:30:44.225+08:00"}
 ---
 
 

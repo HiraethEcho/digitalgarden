@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/meritocracy话语下的道德暴力与阶级羞辱/","title":"“你穷是因为你不够优秀”：meritocracy话语下的道德暴力与阶级羞辱"}
+{"dg-publish":true,"permalink":"/clip/meritocracy话语下的道德暴力与阶级羞辱/","title":"“你穷是因为你不够优秀”：meritocracy话语下的道德暴力与阶级羞辱","created":"2025-05-19T13:18:20.412+08:00"}
 ---
 
 作者开篇引用美国大学招生舞弊丑闻Varsity Blue，和我在高等教育的工作经验非常贴近，所以我感触很多。

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/template/book/","title":{"{ title }":null}}
+{"dg-publish":true,"permalink":"/template/book/","title":{"{ title }":null},"created":"2025-05-28T15:07:26.944+08:00"}
 ---
 
 

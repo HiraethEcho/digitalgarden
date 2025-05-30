@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/dynamic/films.md","permalink":"/blog/dynamic/films/","title":"影评"}
+{"dg-publish":true,"dg-path":"blog/dynamic/films.md","permalink":"/blog/dynamic/films/","title":"影评","created":"2025-05-08T19:30:44.212+08:00"}
 ---
 
 

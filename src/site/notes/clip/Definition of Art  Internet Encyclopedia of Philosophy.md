@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Definition of Art  Internet Encyclopedia of Philosophy/","title":"Definition of Art | Internet Encyclopedia of Philosophy"}
+{"dg-publish":true,"permalink":"/clip/Definition of Art  Internet Encyclopedia of Philosophy/","title":"Definition of Art | Internet Encyclopedia of Philosophy","created":"2025-05-29T13:05:57.257+08:00"}
 ---
 
 ## The Definition of Art

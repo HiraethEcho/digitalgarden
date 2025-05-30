@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/GitWorktree/","title":"worktree"}
+{"dg-publish":true,"permalink":"/clip/GitWorktree/","title":"worktree","created":"2025-05-08T19:30:44.210+08:00"}
 ---
 
 

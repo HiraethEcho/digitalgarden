@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/linux/hyprland/","title":"My hyprland config","tags":["config"]}
+{"dg-publish":true,"permalink":"/wiki/code/linux/hyprland/","title":"My hyprland config","tags":["config"],"created":"2025-05-08T19:30:44.223+08:00"}
 ---
 
 

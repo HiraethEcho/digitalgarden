@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Postmodernism  Internet Encyclopedia of Philosophy/","title":"Postmodernism"}
+{"dg-publish":true,"permalink":"/clip/Postmodernism  Internet Encyclopedia of Philosophy/","title":"Postmodernism","created":"2025-05-19T14:56:48.526+08:00"}
 ---
 
 ## Postmodernism

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Hugo不同页面共用Twikoo评论/","title":"Hugo 设置不同页面共用一套 Twikoo 评论"}
+{"dg-publish":true,"permalink":"/clip/Hugo不同页面共用Twikoo评论/","title":"Hugo 设置不同页面共用一套 Twikoo 评论","created":"2025-05-08T19:30:44.210+08:00"}
 ---
 
 [Guo Le's Blog](https://blog.guole.fun/posts/hugo-gongyong-twikoo/)

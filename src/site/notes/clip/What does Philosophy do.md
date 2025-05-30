@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/What does Philosophy do/","title":"What does Philosophy do?"}
+{"dg-publish":true,"permalink":"/clip/What does Philosophy do/","title":"What does Philosophy do?","created":"2025-05-25T15:19:54.938+08:00"}
 ---
 
 
