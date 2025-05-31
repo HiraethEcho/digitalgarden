@@ -60,8 +60,8 @@
 | [[hexo/essays/introexistentialism\|introexistentialism]]            | 当代危机和存在主义            | <ul><li>philosophy</li><li>life</li><li>existence</li></ul>                 | \-      |
 | [[hexo/essays/introphilosophy\|introphilosophy]]                    | 前往痛苦之路：个人观点的哲学入门推荐   | <ul><li>philosophy</li></ul>                                                | \-      |
 | [[hexo/essays/memoryandidentity\|memoryandidentity]]                | 记忆与个人同一性             | <ul><li>existence</li><li>philosophy</li></ul>                              | \-      |
-| [[hexo/essays/nezai\|nezai]]                                        | 魔童哪吒                 | <ul><li>影评</li><li>ideology</li></ul>                                       | \-      |
 | [[hexo/essays/onlytheriverflows\|onlytheriverflows]]                | 《河边的错误》影评            | <ul><li>影评</li><li>书评</li></ul>                                             | \-      |
+| [[hexo/essays/nezai\|nezai]]                                        | 魔童哪吒                 | <ul><li>影评</li><li>ideology</li></ul>                                       | \-      |
 | [[hexo/essays/orb\|orb]]                                            | ？                    | <ul><li>philosophy</li><li>knowledge</li></ul>                              | \-      |
 | [[hexo/essays/pegasus2\|pegasus2]]                                  | 《飞驰人生2》观后感           | <ul><li>影评</li></ul>                                                        | \-      |
 | [[hexo/essays/replicant\|replicant]]                                | 神、人、人造人和弑父           | \-                                                                          | \-      |
