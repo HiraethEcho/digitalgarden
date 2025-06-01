@@ -50,6 +50,7 @@
 | [[hexo/dynamic/books\|books]]                                       | 书单                   | \-                                                                          | \-      |
 | [[hexo/dynamic/ideas\|ideas]]                                       | 零碎的灵感                | \-                                                                          | \-      |
 | [[hexo/dynamic/moment\|moment]]                                     | 即刻                   | \-                                                                          | \-      |
+| [[hexo/dynamic/poems\|poems]]                                       | 诗                    | <ul><li>poem</li></ul>                                                      | \-      |
 | [[hexo/dynamic/update\|update]]                                     | 近期更新与往期推荐            | <ul></ul>                                                                   | \-      |
 | [[hexo/essays/JohnnyKeepWalking\|JohnnyKeepWalking]]                | 《年会不能停》的简单影评         | <ul><li>影评</li><li>ideology</li></ul>                                       | \-      |
 | [[hexo/essays/alibaba\|alibaba]]                                    | 做题家、数学家和无良媒体         | <ul><li>media</li></ul>                                                     | \-      |
