@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/essays/science2.md","permalink":"/blog/essays/science2/","title":"作为一种方法论的科学","tags":["science","philosophy","free","knowledge"],"created":"2025-05-24T20:50:25.755+08:00"}
+{"dg-publish":true,"permalink":"/hexo/essays/science2/","title":"作为一种方法论的科学","tags":["science","philosophy","free","knowledge"],"created":"2025-05-24T20:50:25.755+08:00"}
 ---
 
 

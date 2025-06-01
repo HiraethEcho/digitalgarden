@@ -60,8 +60,8 @@
 | [[hexo/essays/introexistentialism\|introexistentialism]]            | 当代危机和存在主义            | <ul><li>philosophy</li><li>life</li><li>existence</li></ul>                 | \-      |
 | [[hexo/essays/introphilosophy\|introphilosophy]]                    | 前往痛苦之路：个人观点的哲学入门推荐   | <ul><li>philosophy</li></ul>                                                | \-      |
 | [[hexo/essays/memoryandidentity\|memoryandidentity]]                | 记忆与个人同一性             | <ul><li>existence</li><li>philosophy</li></ul>                              | \-      |
-| [[hexo/essays/onlytheriverflows\|onlytheriverflows]]                | 《河边的错误》影评            | <ul><li>影评</li><li>书评</li></ul>                                             | \-      |
 | [[hexo/essays/nezai\|nezai]]                                        | 魔童哪吒                 | <ul><li>影评</li><li>ideology</li></ul>                                       | \-      |
+| [[hexo/essays/onlytheriverflows\|onlytheriverflows]]                | 《河边的错误》影评            | <ul><li>影评</li><li>书评</li></ul>                                             | \-      |
 | [[hexo/essays/orb\|orb]]                                            | ？                    | <ul><li>philosophy</li><li>knowledge</li></ul>                              | \-      |
 | [[hexo/essays/pegasus2\|pegasus2]]                                  | 《飞驰人生2》观后感           | <ul><li>影评</li></ul>                                                        | \-      |
 | [[hexo/essays/replicant\|replicant]]                                | 神、人、人造人和弑父           | \-                                                                          | \-      |
@@ -70,6 +70,7 @@
 | [[hexo/essays/sciencefiction\|sciencefiction]]                      | 对科幻的一点看法             | <ul><li>science</li></ul>                                                   | \-      |
 | [[hexo/essays/talkshow-patch\|talkshow-patch]]                      | 再谈脱口秀:一些澄清和狡辩，以及再次锐评 | <ul><li>talkshow</li><li>feminism</li></ul>                                 | \-      |
 | [[hexo/essays/yolo\|yolo]]                                          | 《热辣滚烫》观后感            | <ul><li>影评</li><li>feminism</li></ul>                                       | \-      |
+| [[hexo/memo/1in10\|1in10]]                                          | 十分之一的生活              | <ul><li>life</li></ul>                                                      | \-      |
 | [[hexo/memo/actingparents\|actingparents]]                          | 对父母形象的表演             | <ul><li>life</li><li>irl</li><li>family</li></ul>                           | \-      |
 | [[hexo/memo/arrowoftime\|arrowoftime]]                              | 时间是一种幻觉              | <ul><li>time</li><li>life</li><li>love</li></ul>                            | \-      |
 | [[hexo/memo/heartofpoplar\|heartofpoplar]]                          | heartofpoplar        | \-                                                                          | \-      |

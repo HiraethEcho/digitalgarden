@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"blog/memo/reply_mp.md","permalink":"/blog/memo/reply_mp/","title":"对公众号的回复","tags":["media"],"created":"2025-05-16T14:39:19.813+08:00"}
+{"dg-publish":true,"permalink":"/hexo/memo/reply_mp/","title":"对公众号的回复","tags":["media"],"created":"2025-05-16T14:39:19.813+08:00"}
 ---
 
 
