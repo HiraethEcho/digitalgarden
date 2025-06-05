@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/arch/archwiki/","title":"ArchWiki摘抄","tags":["arch","linux","handbook"],"created":"2025-05-08T19:30:44.221+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/arch/archwiki/","title":"ArchWiki摘抄","tags":["arch","linux","handbook"],"created":"2025-06-04T22:04:15.520+08:00"}
 ---
 
 
@@ -29,6 +29,10 @@ cat explicit | sudo pacman -D --asexplicit -
 
 ```sh
 pacman -Qii | awk '/^MODIFIED/ {print $2}'
+```
+
+```sh
+pacman -Qi | awk '/^Name/{name=$3} /^Install Date/{print $4,$5,$6,name}' | sort
 ```
 
 ## font

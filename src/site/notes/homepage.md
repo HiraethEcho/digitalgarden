@@ -32,8 +32,8 @@
 | [[hexo/essays/suffragette\|suffragette]]                            | suffragette          | <ul><li>feminism</li><li>ideology</li></ul>                                 | draft   |
 | [[hexo/memo/abuselanguage\|abuselanguage]]                          | 对语言的滥用               | <ul><li>talkshow</li></ul>                                                  | draft   |
 | [[hexo/memo/fucklinus\|fucklinus]]                                  | So Linus, Fuck you!  | <ul><li>irl</li></ul>                                                       | draft   |
-| [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向             | <ul><li>philosophy</li></ul>                                                | draft   |
 | [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗              | <ul><li>life</li><li>philosophy</li></ul>                                   | draft   |
+| [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向             | <ul><li>philosophy</li></ul>                                                | draft   |
 | [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite         | <ul><li>life</li></ul>                                                      | draft   |
 | [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯               | <ul><li>philosophy</li><li>life</li><li>death</li></ul>                     | draft   |
 | [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫               | <ul><li>life</li><li>media</li><li>philosophy</li></ul>                     | draft   |
@@ -58,8 +58,8 @@
 | [[hexo/essays/dome\|dome]]                                          | 诺顿穹顶、决定论与自由意志        | <ul><li>science</li><li>philosophy</li><li>life</li><li>free</li></ul>      | \-      |
 | [[hexo/essays/fire-of-love\|fire-of-love]]                          | 跃入永恒的爱情              | <ul><li>love</li><li>friends</li><li>影评</li></ul>                           | \-      |
 | [[hexo/essays/freedom\|freedom]]                                    | freedom              | <ul><li>free</li><li>rights</li></ul>                                       | \-      |
-| [[hexo/essays/introphilosophy\|introphilosophy]]                    | 前往痛苦之路：个人观点的哲学入门推荐   | <ul><li>philosophy</li></ul>                                                | \-      |
 | [[hexo/essays/introexistentialism\|introexistentialism]]            | 当代危机和存在主义            | <ul><li>philosophy</li><li>life</li><li>existence</li></ul>                 | \-      |
+| [[hexo/essays/introphilosophy\|introphilosophy]]                    | 前往痛苦之路：个人观点的哲学入门推荐   | <ul><li>philosophy</li></ul>                                                | \-      |
 | [[hexo/essays/memoryandidentity\|memoryandidentity]]                | 记忆与个人同一性             | <ul><li>existence</li><li>philosophy</li></ul>                              | \-      |
 | [[hexo/essays/nezai\|nezai]]                                        | 魔童哪吒                 | <ul><li>影评</li><li>ideology</li></ul>                                       | \-      |
 | [[hexo/essays/onlytheriverflows\|onlytheriverflows]]                | 《河边的错误》影评            | <ul><li>影评</li><li>书评</li></ul>                                             | \-      |
@@ -123,8 +123,8 @@ draft:
 | [[hexo/essays/suffragette\|suffragette]]                            | suffragette         | 关于女性获取政治权力的文艺作品                                  | <ul><li>feminism</li><li>ideology</li></ul>                 |
 | [[hexo/memo/abuselanguage\|abuselanguage]]                          | 对语言的滥用              | 被乔治·卡琳启发，对使用语言的一些想法                              | <ul><li>talkshow</li></ul>                                  |
 | [[hexo/memo/fucklinus\|fucklinus]]                                  | So Linus, Fuck you! | 自由何去何从？                                          | <ul><li>irl</li></ul>                                       |
-| [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向            | 社会学、西马似乎对未来有一种悲观倾向                               | <ul><li>philosophy</li></ul>                                |
 | [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗             | 有病也不治                                            | <ul><li>life</li><li>philosophy</li></ul>                   |
+| [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向            | 社会学、西马似乎对未来有一种悲观倾向                               | <ul><li>philosophy</li></ul>                                |
 | [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite        | 为什么读书与写作？                                        | <ul><li>life</li></ul>                                      |
 | [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯              | 饥饿，不是因为高尚而是因为没有找到喜欢的食物；走向绞刑架，自知又逃避。              | <ul><li>philosophy</li><li>life</li><li>death</li></ul>     |
 | [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫              | 心理生理文化观念上的不正常人是什么，以及如何对待他们或自处。                   | <ul><li>life</li><li>media</li><li>philosophy</li></ul>     |
@@ -148,8 +148,8 @@ others:-->
 | [[hexo/essays/suffragette\|suffragette]]                            | suffragette         | <ul><li>feminism</li><li>ideology</li></ul>                 |
 | [[hexo/memo/abuselanguage\|abuselanguage]]                          | 对语言的滥用              | <ul><li>talkshow</li></ul>                                  |
 | [[hexo/memo/fucklinus\|fucklinus]]                                  | So Linus, Fuck you! | <ul><li>irl</li></ul>                                       |
-| [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向            | <ul><li>philosophy</li></ul>                                |
 | [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗             | <ul><li>life</li><li>philosophy</li></ul>                   |
+| [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向            | <ul><li>philosophy</li></ul>                                |
 | [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite        | <ul><li>life</li></ul>                                      |
 | [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯              | <ul><li>philosophy</li><li>life</li><li>death</li></ul>     |
 | [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫              | <ul><li>life</li><li>media</li><li>philosophy</li></ul>     |
