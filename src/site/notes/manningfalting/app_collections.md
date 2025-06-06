@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/manningfalting/app_collections/","created":"2025-06-04T12:57:54.897+08:00"}
 ---
 
+
+## [fancy-cat](https://github.com/freref/fancy-cat)
+
 ## [quarkdown](https://github.com/iamgio/quarkdown)
 
 Turn markdown with additional marks to pdf or html, like LaTeX.

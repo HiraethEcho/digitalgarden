@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/manningfalting/cli/","created":"2025-06-02T13:19:28.332+08:00"}
 ---
 
+
 `date`:
 
 ```

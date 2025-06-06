@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/manningfalting/linux/","created":"2025-06-01T15:08:46.086+08:00"}
 ---
 
+
 https://github.com/SuperManito/LinuxMirrors
 
 ```
@@ -15,6 +16,8 @@ bash <(curl -sSL https://linuxmirrors.cn/docker.sh)
 ```
 bash <(curl -sSL https://linuxmirrors.cn/docker.sh) --only-registry
 ```
+
+### file
 
 use following to find file type. `-L` means follow the symbolic link
 
@@ -34,7 +37,10 @@ xdg-mime default "$APP" "$FILETYPE"
 echo "$APP set as default application to open $FILETYPE"
 ```
 
+### stat
+
 `stat`展示文件状态，例如
+
 ```
 stat /
 
@@ -46,4 +52,28 @@ Access: 2025-05-10 23:46:03.122616066 +0800
 Modify: 2025-05-11 21:26:49.474145593 +0800
 Change: 2025-05-11 21:26:49.474145593 +0800
  Birth: 2025-01-01 14:58:38.377746860 +0800
+```
+
+### type
+
+```
+  Display the type of command the shell will execute.
+  Note: All examples are not POSIX compliant.
+  More information: <https://www.gnu.org/software/bash/manual/bash.html#index-type>.
+
+  Display the type of a command:
+
+      type command
+
+  Display all locations containing the specified executable (works only in Bash/fish/Zsh shells):
+
+      type -a command
+
+  Display the name of the disk file that would be executed (works only in Bash/fish/Zsh shells):
+
+      type -p command
+
+  Display the type of a specific command, alias/keyword/function/builtin/file (works only in Bash/fish shells):
+
+      type -t command
 ```
