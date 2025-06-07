@@ -35,3 +35,7 @@ Turn markdown with additional marks to pdf or html, like LaTeX.
 
       whois -b 8.8.8.8
 ```
+
+## [yabsnap](https://wiki.archlinux.org/title/Yabsnap)
+
+another `snapper`

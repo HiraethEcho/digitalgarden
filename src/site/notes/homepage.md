@@ -20,8 +20,8 @@
 | [[hexo/essays/evacuate\|evacuate]]                                  | 《从21世纪安全撤离》影评        | <ul><li>影评</li><li>irl</li></ul>                                            | rc      |
 | [[hexo/essays/introspection\|introspection]]                        | 一些反思                 | <ul><li>talkshow</li></ul>                                                  | rc      |
 | [[hexo/memo/whyblog\|whyblog]]                                      | 为什么写博客？              | <ul><li>memo</li><li>life</li></ul>                                         | rc      |
-| [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白           | <ul><li>philosophy</li><li>life</li><li>existence</li></ul>                 | draft   |
 | [[hexo/contemplation/liveinpostmodernworld\|liveinpostmodernworld]] | 后现代生活                | <ul><li>life</li><li>society</li><li>ideology</li></ul>                     | draft   |
+| [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白           | <ul><li>philosophy</li><li>life</li><li>existence</li></ul>                 | draft   |
 | [[hexo/dynamic/films\|films]]                                       | 影评                   | \-                                                                          | draft   |
 | [[hexo/essays/femalism_films\|femalism_films]]                      | 口嗨女性主义电影             | <ul><li>feminism</li><li>影评</li></ul>                                       | draft   |
 | [[hexo/essays/gay\|gay]]                                            | 从男同看父权制              | <ul><li>feminism</li><li>rights</li></ul>                                   | draft   |
@@ -111,8 +111,8 @@ rc:
 draft:
 | File                                                                   | title               | excerpt                                          | tags                                                        |
 | ---------------------------------------------------------------------- | ------------------- | ------------------------------------------------ | ----------------------------------------------------------- |
-| [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白          | 它决不能使我屈服！                                        | <ul><li>philosophy</li><li>life</li><li>existence</li></ul> |
 | [[hexo/contemplation/liveinpostmodernworld\|liveinpostmodernworld]] | 后现代生活               | 支离破碎的生活                                          | <ul><li>life</li><li>society</li><li>ideology</li></ul>     |
+| [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白          | 它决不能使我屈服！                                        | <ul><li>philosophy</li><li>life</li><li>existence</li></ul> |
 | [[hexo/dynamic/films\|films]]                                       | 影评                  | 持续更新的短影评或影评链接                                    | \-                                                          |
 | [[hexo/essays/femalism_films\|femalism_films]]                      | 口嗨女性主义电影            | 集中评论几部女性主义电影                                     | <ul><li>feminism</li><li>影评</li></ul>                       |
 | [[hexo/essays/gay\|gay]]                                            | 从男同看父权制             | \-                                               | <ul><li>feminism</li><li>rights</li></ul>                   |
@@ -136,8 +136,8 @@ others:-->
 
 | File                                                                   | title               | tags                                                        |
 | ---------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------- |
-| [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白          | <ul><li>philosophy</li><li>life</li><li>existence</li></ul> |
 | [[hexo/contemplation/liveinpostmodernworld\|liveinpostmodernworld]] | 后现代生活               | <ul><li>life</li><li>society</li><li>ideology</li></ul>     |
+| [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白          | <ul><li>philosophy</li><li>life</li><li>existence</li></ul> |
 | [[hexo/dynamic/films\|films]]                                       | 影评                  | \-                                                          |
 | [[hexo/essays/femalism_films\|femalism_films]]                      | 口嗨女性主义电影            | <ul><li>feminism</li><li>影评</li></ul>                       |
 | [[hexo/essays/gay\|gay]]                                            | 从男同看父权制             | <ul><li>feminism</li><li>rights</li></ul>                   |
