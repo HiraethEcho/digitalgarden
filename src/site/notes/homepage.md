@@ -23,6 +23,7 @@
 | [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白           | <ul><li>philosophy</li><li>life</li><li>existence</li></ul>                 | draft   |
 | [[hexo/contemplation/liveinpostmodernworld\|liveinpostmodernworld]] | 后现代生活                | <ul><li>life</li><li>society</li><li>ideology</li></ul>                     | draft   |
 | [[hexo/dynamic/films\|films]]                                       | 影评                   | \-                                                                          | draft   |
+| [[hexo/essays/attack_on_titan\|attack_on_titan]]                    | 进击的巨人：好活，但是整烂了       | <ul><li>ideology</li><li>剧评</li><li>freedom</li></ul>                       | draft   |
 | [[hexo/essays/femalism_films\|femalism_films]]                      | 口嗨女性主义电影             | <ul><li>feminism</li><li>影评</li></ul>                                       | draft   |
 | [[hexo/essays/gay\|gay]]                                            | 从男同看父权制              | <ul><li>feminism</li><li>rights</li></ul>                                   | draft   |
 | [[hexo/essays/knowledge\|knowledge]]                                | 知识论                  | <ul><li>knowledge</li><li>philosophy</li></ul>                              | draft   |
@@ -114,6 +115,7 @@ draft:
 | [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白          | 它决不能使我屈服！                                        | <ul><li>philosophy</li><li>life</li><li>existence</li></ul> |
 | [[hexo/contemplation/liveinpostmodernworld\|liveinpostmodernworld]] | 后现代生活               | 支离破碎的生活                                          | <ul><li>life</li><li>society</li><li>ideology</li></ul>     |
 | [[hexo/dynamic/films\|films]]                                       | 影评                  | 持续更新的短影评或影评链接                                    | \-                                                          |
+| [[hexo/essays/attack_on_titan\|attack_on_titan]]                    | 进击的巨人：好活，但是整烂了      | 好活，但是有点烂。烂是因为菜，不是因为坏。                            | <ul><li>ideology</li><li>剧评</li><li>freedom</li></ul>       |
 | [[hexo/essays/femalism_films\|femalism_films]]                      | 口嗨女性主义电影            | 集中评论几部女性主义电影                                     | <ul><li>feminism</li><li>影评</li></ul>                       |
 | [[hexo/essays/gay\|gay]]                                            | 从男同看父权制             | \-                                               | <ul><li>feminism</li><li>rights</li></ul>                   |
 | [[hexo/essays/knowledge\|knowledge]]                                | 知识论                 | 什么是知识                                            | <ul><li>knowledge</li><li>philosophy</li></ul>              |
@@ -139,6 +141,7 @@ others:-->
 | [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白          | <ul><li>philosophy</li><li>life</li><li>existence</li></ul> |
 | [[hexo/contemplation/liveinpostmodernworld\|liveinpostmodernworld]] | 后现代生活               | <ul><li>life</li><li>society</li><li>ideology</li></ul>     |
 | [[hexo/dynamic/films\|films]]                                       | 影评                  | \-                                                          |
+| [[hexo/essays/attack_on_titan\|attack_on_titan]]                    | 进击的巨人：好活，但是整烂了      | <ul><li>ideology</li><li>剧评</li><li>freedom</li></ul>       |
 | [[hexo/essays/femalism_films\|femalism_films]]                      | 口嗨女性主义电影            | <ul><li>feminism</li><li>影评</li></ul>                       |
 | [[hexo/essays/gay\|gay]]                                            | 从男同看父权制             | <ul><li>feminism</li><li>rights</li></ul>                   |
 | [[hexo/essays/knowledge\|knowledge]]                                | 知识论                 | <ul><li>knowledge</li><li>philosophy</li></ul>              |

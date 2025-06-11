@@ -3,16 +3,6 @@
 ---
 
 
-## [fancy-cat](https://github.com/freref/fancy-cat)
-
-## [quarkdown](https://github.com/iamgio/quarkdown)
-
-Turn markdown with additional marks to pdf or html, like LaTeX.
-
-![paper](https://raw.githubusercontent.com/iamgio/quarkdown/project-files/images/code-paper.png)
-
-![chart](https://raw.githubusercontent.com/iamgio/quarkdown/project-files/images/code-chart.png)
-
 ## small tools
 
 ### httrack
@@ -36,6 +26,38 @@ Turn markdown with additional marks to pdf or html, like LaTeX.
       whois -b 8.8.8.8
 ```
 
-## [yabsnap](https://wiki.archlinux.org/title/Yabsnap)
+## Maybe useful later
+
+### [yabsnap](https://wiki.archlinux.org/title/Yabsnap)
 
 another `snapper`
+
+## Interesting and maybe useful
+
+### ninve
+
+[ninve](https://github.com/Niedzwiedzw/ninve) A tui video editor. Use `mpv` to play and `ffmpeg` to edit.
+
+### [quarkdown](https://github.com/iamgio/quarkdown)
+
+Turn markdown with additional marks to pdf or html, like LaTeX.
+
+![paper](https://raw.githubusercontent.com/iamgio/quarkdown/project-files/images/code-paper.png)
+
+![chart](https://raw.githubusercontent.com/iamgio/quarkdown/project-files/images/code-chart.png)
+
+### [fancy-cat](https://github.com/freref/fancy-cat)
+
+## Interesting but useless
+
+### btrfs-heatmap
+
+### gping
+
+### mpvpaper
+
+### ripgrep-all
+
+### stew-bin
+
+### whois httprack
