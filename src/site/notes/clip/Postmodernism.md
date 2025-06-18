@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Postmodernism/","title":"Postmodernism","created":"2025-05-19T14:56:48.526+08:00"}
+{"dg-publish":true,"permalink":"/clip/Postmodernism/","title":"Postmodernism","created":"2025-06-16T14:31:16.895+08:00"}
 ---
 
 ## Postmodernism

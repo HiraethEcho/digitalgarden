@@ -1,13 +1,104 @@
 ---
-{"dg-publish":true,"permalink":"/manningfalting/app_collections/","created":"2025-06-04T12:57:54.897+08:00"}
+{"dg-publish":true,"permalink":"/manningfalting/app_collections/","created":"2025-06-16T14:31:16.214+08:00"}
 ---
 
 
-## small tools
+# some applications and tools
 
-### httrack
+## basic tools
 
-### whois
+### media
+
+#### mpd
+
+- mpd
+- frontend for mpd:
+    - cli:mpc
+    - tui:
+        - ncmpc
+        - ncmpcpp
+        - mmtc (no, weird config)
+        - rmpc
+
+`easytag` to edit metadata of a audio file. 
+
+#### mpv
+
+video player and more
+
+#### ffmpeg
+
+so powerful
+
+### system
+
+#### systemd-manager-tui
+
+[systemd-manager-tui](https://crates.io/crates/systemd-manager-tui)
+
+## DE
+
+### wm
+
+#### dwm
+
+suckless
+
+#### niri
+
+page scroll
+
+#### i3
+
+tiling
+
+#### other
+
+[cwc](https://cudiph.github.io/cwc/apidoc/documentation/00-getting-started.md.html)
+
+[github](https://github.com/Cudiph/cwcwm)
+
+## workflow
+
+### task and event
+
+- dstask
+- todo.txt
+- timewarrior
+- taskwarrior
+    - tasknc
+    - taskwarriortui
+- todoman
+
+#### taskwarrior
+
+### email
+
+- vdirsyncer
+- khal
+
+#### aerc
+
+## useful
+
+### not now, or not me
+
+#### dracut
+
+Alter for mkinitcpio
+
+#### limine
+
+[limine](https://wiki.archlinux.org/title/Limine)
+Alter for grub
+
+not support fo timeshift btrfs snap yet
+
+### maybe later
+
+#### httrack
+
+#### whois
 
 ```tldr
   Command-line client for the WHOIS (RFC 3912) protocol.
@@ -26,19 +117,91 @@
       whois -b 8.8.8.8
 ```
 
-## Maybe useful later
+#### jujustu
 
-### [yabsnap](https://wiki.archlinux.org/title/Yabsnap)
+[jj](https://github.com/jj-vcs/jj)
+
+#### gitoxide
+
+[github](https://github.com/GitoxideLabs/gitoxide)
+An idiomatic, lean, fast & safe pure Rust implementation of Git
+
+#### [yabsnap](https://wiki.archlinux.org/title/Yabsnap)
 
 another `snapper`
 
-## Interesting and maybe useful
+not support fo timeshift btrfs snap yet
+
+## Interesting
+
+### useful
+
+#### clivm
+
+[clivm](https://github.com/AruAVI/clivm-git) is a lightweight tool to locally create containers for multiple Linux distributions.
+
+```PKGBUILD
+# Maintainer: AruAVI <arubaanimates@gmail.com>
+
+pkgname=clivm
+pkgver=1.0.0
+pkgrel=1
+pkgdesc="CLI-based Linux virtualization management tool"
+arch=('any')
+url="https://github.com/AruAVI/clivm"
+license=('MIT')
+depends=('debootstrap' 'arch-install-scripts' 'wget' 'git')
+makedepends=()
+source=("clivm-${pkgver}.tar.gz")
+sha256sums=('bfe2e60f517b75d5006ceabde7fa24e4c72460a132d99674da836bef48794b61')
+
+build() {
+  # Create the subdirectory and move all extracted files there
+  mkdir -p "$srcdir/clivm-1.0.0"
+  mv "$srcdir"/* "$srcdir/clivm-1.0.0"/ 2>/dev/null || true
+}
+
+package() {
+  cd "$srcdir/clivm-1.0.0"
+
+  # Create directories in package
+  install -dm755 "$pkgdir/usr/share/clivm/binaries"
+  install -dm755 "$pkgdir/usr/share/clivm/installers"
+
+  # Copy files into package
+  cp -r binaries/* "$pkgdir/usr/share/clivm/binaries/"
+  cp -r installers/* "$pkgdir/usr/share/clivm/installers/"
+
+  # Install executable launcher
+  install -Dm755 clivm.py "$pkgdir/usr/bin/clivm"
+}
+```
+
+#### [yutto](https://yutto.nyakku.moe/)
+
+a bilibili downloader
+
+### not now, or not me
+
+#### stew-bin
+
+install binary from github
+
+#### bilibili shadow replay
+
+[doc](https://bsr.xinrea.cn/)
 
 ### ninve
 
 [ninve](https://github.com/Niedzwiedzw/ninve) A tui video editor. Use `mpv` to play and `ffmpeg` to edit.
 
-### [quarkdown](https://github.com/iamgio/quarkdown)
+### not much useful or necessary
+
+#### gowall
+
+A tool to convert a wallpaper's colorscheme, like nord or onedark
+
+#### [quarkdown](https://github.com/iamgio/quarkdown)
 
 Turn markdown with additional marks to pdf or html, like LaTeX.
 
@@ -46,18 +209,34 @@ Turn markdown with additional marks to pdf or html, like LaTeX.
 
 ![chart](https://raw.githubusercontent.com/iamgio/quarkdown/project-files/images/code-chart.png)
 
-### [fancy-cat](https://github.com/freref/fancy-cat)
+#### [fancy-cat](https://github.com/freref/fancy-cat)
 
-## Interesting but useless
+cat pdf or other
 
-### btrfs-heatmap
+#### ripgrep-all
 
-### gping
+`rga` to match in pdf
 
-### mpvpaper
+#### lsix
 
-### ripgrep-all
+list pictures by sixel
 
-### stew-bin
+#### chafa
 
-### whois httprack
+show pixels of pictures through sixel
+
+#### btrfs-heatmap
+
+btrfs usage by hilbert curve
+
+#### gping
+
+render in tui for ping
+
+#### mpvpaper
+
+wallpaper by mpv in wayland
+
+#### [codesnap](https://codesnap.dev/)
+
+generate pictures of code snaps

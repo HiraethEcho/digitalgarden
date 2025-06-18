@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/WeylStanford/","title":"Hermann Weyl (Stanford Encyclopedia of Philosophy)","created":"2025-05-20T15:38:38.975+08:00"}
+{"dg-publish":true,"permalink":"/clip/WeylStanford/","title":"Hermann Weyl (Stanford Encyclopedia of Philosophy)","created":"2025-06-16T14:31:17.092+08:00"}
 ---
 
 

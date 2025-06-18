@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Artix/","title":"ArtixOpenRC","created":"2025-05-15T13:05:38.836+08:00"}
+{"dg-publish":true,"permalink":"/clip/Artix/","title":"ArtixOpenRC","created":"2025-06-16T14:31:16.573+08:00"}
 ---
 
 

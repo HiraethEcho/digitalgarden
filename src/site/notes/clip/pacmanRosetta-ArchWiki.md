@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/pacmanRosetta-ArchWiki/","title":"pacman/Rosetta - ArchWiki","created":"2025-06-11T19:34:42.098+08:00"}
+{"dg-publish":true,"permalink":"/clip/pacmanRosetta-ArchWiki/","title":"pacman/Rosetta - ArchWiki","created":"2025-06-16T14:31:17.050+08:00"}
 ---
 
 < [Pacman](https://wiki.archlinux.org/title/Pacman "Pacman")

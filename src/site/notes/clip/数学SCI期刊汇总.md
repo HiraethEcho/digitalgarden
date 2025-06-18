@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/数学SCI期刊汇总/","title":"数学SCI期刊","created":"2025-05-15T15:06:29.460+08:00"}
+{"dg-publish":true,"permalink":"/clip/数学SCI期刊汇总/","title":"数学SCI期刊","created":"2025-06-16T14:31:17.244+08:00"}
 ---
 
 ![数学（数学方向）SCI期刊汇总（一）](https://picx.zhimg.com/70/v2-125afeefe49a1fed0e6c0ab515325483_1440w.avis?source=172ae18b&biz_tag=Post)

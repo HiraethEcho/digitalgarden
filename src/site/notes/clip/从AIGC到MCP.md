@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/从AIGC到MCP/","title":"从AIGC到MCP：普通人需要了解的AI新进展及其技术本质 - 少数派","created":"2025-06-09T15:04:45.384+08:00"}
+{"dg-publish":true,"permalink":"/clip/从AIGC到MCP/","title":"从AIGC到MCP：普通人需要了解的AI新进展及其技术本质 - 少数派","created":"2025-06-16T14:31:17.071+08:00"}
 ---
 
 # 从AIGC到MCP：普通人需要了解的AI新进展及其技术本质 - 少数派

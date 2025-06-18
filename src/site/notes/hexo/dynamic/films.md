@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hexo/dynamic/films/","title":"影评","created":"2025-05-08T19:30:44.212+08:00"}
+{"dg-publish":true,"permalink":"/hexo/dynamic/films/","title":"影评","created":"2025-06-16T14:31:18.853+08:00"}
 ---
 
 

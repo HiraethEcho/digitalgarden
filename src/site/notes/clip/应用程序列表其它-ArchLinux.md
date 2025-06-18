@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/应用程序列表其它-ArchLinux/","title":"应用程序列表/其它 -  Arch Linux 中文维基","created":"2025-06-11T19:48:18.841+08:00"}
+{"dg-publish":true,"permalink":"/clip/应用程序列表其它-ArchLinux/","title":"应用程序列表/其它 -  Arch Linux 中文维基","created":"2025-06-16T14:31:17.109+08:00"}
 ---
 
 < [应用程序列表](https://wiki.archlinuxcn.org/wiki/%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E5%88%97%E8%A1%A8 "应用程序列表")

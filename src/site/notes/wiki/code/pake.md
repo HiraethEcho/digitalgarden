@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/pake/","title":"pake打包web应用","tags":["linux"],"created":"2025-06-08T16:43:43.331+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/pake/","title":"pake打包web应用","tags":["linux"],"created":"2025-06-16T14:31:19.982+08:00"}
 ---
 
 

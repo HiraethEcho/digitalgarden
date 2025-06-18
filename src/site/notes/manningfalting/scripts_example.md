@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manningfalting/scripts_example/","created":"2025-06-05T14:45:08.573+08:00"}
+{"dg-publish":true,"permalink":"/manningfalting/scripts_example/","created":"2025-06-16T14:31:16.297+08:00"}
 ---
 
 ```

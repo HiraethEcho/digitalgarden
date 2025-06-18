@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/ScientificRealism/","title":"Scientific Realism (Stanford Encyclopedia of Philosophy/Summer 2017 Edition)","created":"2025-05-12T15:58:50.282+08:00"}
+{"dg-publish":true,"permalink":"/clip/ScientificRealism/","title":"Scientific Realism (Stanford Encyclopedia of Philosophy/Summer 2017 Edition)","created":"2025-06-16T14:31:16.916+08:00"}
 ---
 
 ## Scientific Realism

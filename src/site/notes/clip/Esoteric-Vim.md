@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Esoteric-Vim/","title":"Esoteric Vim","created":"2025-05-26T20:55:00.862+08:00"}
+{"dg-publish":true,"permalink":"/clip/Esoteric-Vim/","title":"Esoteric Vim","created":"2025-06-16T14:31:16.635+08:00"}
 ---
 
 This is a compendium of useful yet lesser-known Vim idioms I actually use in my everyday editing, saving me dozens (if not hundreds) of hours of work. The article is meant both as a resource for the curious vimmer wanting to expand their vocabulary, and as an answer to the question puzzled non-vimmers ask themselves whenever they accidentally open Vim and cannot figure out how to close it: why in the world do people even bother learning this weird text editor in the first place?

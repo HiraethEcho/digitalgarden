@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manningfalting/fcitx/","created":"2025-06-02T12:37:17.185+08:00"}
+{"dg-publish":true,"permalink":"/manningfalting/fcitx/","created":"2025-06-16T14:31:16.256+08:00"}
 ---
 
 `/usr/share/applications/wechat.desktop`

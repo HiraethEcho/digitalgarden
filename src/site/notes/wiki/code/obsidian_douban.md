@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/obsidian_douban/","title":"豆瓣记录导入obsidian","tags":["obsidian"],"created":"2025-05-28T15:32:26.105+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/obsidian_douban/","title":"豆瓣记录导入obsidian","tags":["obsidian"],"created":"2025-06-16T14:31:19.942+08:00"}
 ---
 
 

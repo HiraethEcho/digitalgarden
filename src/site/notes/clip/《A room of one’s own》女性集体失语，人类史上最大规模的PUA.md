@@ -1,11 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/clip/《A room of one’s own》女性集体失语，人类史上最大规模的PUA/","title":"《A room of one’s own》女性集体失语，人类史上最大规模的PUA","created":"2025-06-02T15:29:44.188+08:00"}
+{"dg-publish":true,"permalink":"/clip/《A room of one’s own》女性集体失语，人类史上最大规模的PUA/","title":"《A room of one’s own》女性集体失语，人类史上最大规模的PUA","created":"2025-06-16T14:31:17.016+08:00"}
 ---
 
 
 22年圣诞的时候在柏林买的这本《A room of one's own》，薄薄的一本，但拿起来读了几次都没有读进去。这周发现微信读书上有这本的原版，周末健身的时候听了两个小时，终于厘清了这本书的脉络。
-
-![](https://img3.doubanio.com/view/thing_review/l/public/p12344632.jpg)
 
 ### 各章节内容
 

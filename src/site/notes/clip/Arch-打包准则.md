@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Arch-打包准则/","title":"Arch 打包准则 -  Arch Linux 中文维基","created":"2025-06-08T20:26:03.422+08:00"}
+{"dg-publish":true,"permalink":"/clip/Arch-打包准则/","title":"Arch 打包准则 -  Arch Linux 中文维基","created":"2025-06-16T14:31:16.549+08:00"}
 ---
 
 # Arch 打包准则**

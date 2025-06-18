@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/arch/archpostinstall/","title":"安装后的建议配置","tags":["arch","handbook"],"created":"2025-05-15T13:05:38.836+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/arch/archpostinstall/","title":"安装后的建议配置","tags":["arch","handbook"],"created":"2025-06-16T14:31:20.385+08:00"}
 ---
 
 

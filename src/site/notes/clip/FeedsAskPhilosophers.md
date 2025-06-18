@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/FeedsAskPhilosophers/","title":"Feeds | AskPhilosophers.org","created":"2025-05-19T14:10:22.938+08:00"}
+{"dg-publish":true,"permalink":"/clip/FeedsAskPhilosophers/","title":"Feeds | AskPhilosophers.org","created":"2025-06-16T14:31:16.719+08:00"}
 ---
 
 ## Feeds

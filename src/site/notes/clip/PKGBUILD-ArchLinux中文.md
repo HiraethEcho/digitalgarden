@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/PKGBUILD-ArchLinux中文/","title":"PKGBUILD -  Arch Linux 中文维基","created":"2025-06-06T16:08:01.788+08:00"}
+{"dg-publish":true,"permalink":"/clip/PKGBUILD-ArchLinux中文/","title":"PKGBUILD -  Arch Linux 中文维基","created":"2025-06-16T14:31:16.865+08:00"}
 ---
 
 本页面讨论 `PKGBUILD` 中可由维护者定义的变量。若要获取关于 `PKGBUILD` 中的函数和创建软件包的基本信息，请参考 [创建软件包](https://wiki.archlinuxcn.org/wiki/%E5%88%9B%E5%BB%BA%E8%BD%AF%E4%BB%B6%E5%8C%85 "创建软件包") 和 [PKGBUILD(5)](https://man.archlinux.org/man/PKGBUILD.5) 。

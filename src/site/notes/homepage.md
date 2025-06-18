@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Hiraeth's Digital Garden","tags":["gardenEntry"],"created":"2025-05-15T13:43:59.062+08:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Hiraeth's Digital Garden","tags":["gardenEntry"],"created":"2025-06-16T14:31:16.076+08:00"}
 ---
 
 
@@ -52,11 +52,12 @@
 | [[hexo/dynamic/ideas\|ideas]]                                       | 零碎的灵感                | \-                                                                          | \-      |
 | [[hexo/dynamic/moment\|moment]]                                     | 即刻                   | \-                                                                          | \-      |
 | [[hexo/dynamic/poems\|poems]]                                       | 诗                    | <ul><li>poem</li></ul>                                                      | \-      |
+| [[hexo/dynamic/seize_myself\|seize_myself]]                         | Seize Myself         | <ul><li>life</li></ul>                                                      | \-      |
 | [[hexo/dynamic/update\|update]]                                     | 近期更新与往期推荐            | <ul></ul>                                                                   | \-      |
 | [[hexo/essays/JohnnyKeepWalking\|JohnnyKeepWalking]]                | 《年会不能停》的简单影评         | <ul><li>影评</li><li>ideology</li></ul>                                       | \-      |
 | [[hexo/essays/alibaba\|alibaba]]                                    | 做题家、数学家和无良媒体         | <ul><li>media</li></ul>                                                     | \-      |
-| [[hexo/essays/copyleft\|copyleft]]                                  | copyleft             | <ul><li>media</li><li>free</li><li>right</li></ul>                          | \-      |
 | [[hexo/essays/dome\|dome]]                                          | 诺顿穹顶、决定论与自由意志        | <ul><li>science</li><li>philosophy</li><li>life</li><li>free</li></ul>      | \-      |
+| [[hexo/essays/copyleft\|copyleft]]                                  | copyleft             | <ul><li>media</li><li>free</li><li>right</li></ul>                          | \-      |
 | [[hexo/essays/fire-of-love\|fire-of-love]]                          | 跃入永恒的爱情              | <ul><li>love</li><li>friends</li><li>影评</li></ul>                           | \-      |
 | [[hexo/essays/freedom\|freedom]]                                    | freedom              | <ul><li>free</li><li>rights</li></ul>                                       | \-      |
 | [[hexo/essays/introexistentialism\|introexistentialism]]            | 当代危机和存在主义            | <ul><li>philosophy</li><li>life</li><li>existence</li></ul>                 | \-      |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/ssh/","title":"About ssh","tags":["tools"],"created":"2025-05-08T19:30:44.223+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/ssh/","title":"About ssh","tags":["tools"],"created":"2025-06-16T14:31:19.993+08:00"}
 ---
 
 
@@ -17,7 +17,7 @@
 
 在服务机上
 
-```sh
+```shell
 ssh -R 1234:localhost:22 midle_username@ipv6
 ```
 
@@ -25,7 +25,7 @@ ssh -R 1234:localhost:22 midle_username@ipv6
 
 在客户机上用
 
-```sh
+```shell
 ssh -p 1234 server_user@ipv6
 ```
 
@@ -49,7 +49,7 @@ GatewayPorts yes
 to share X11 through ssh, need `Xorg` on server and client.  
 on client using
 
-```sh
+```shell
 ssh -X -C remote_user@remote_host
 ```
 

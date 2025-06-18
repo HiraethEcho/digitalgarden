@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/read/butler/","title":"巴特勒收集","tags":["feminism"],"created":"2025-05-27T16:34:15.716+08:00"}
+{"dg-publish":true,"permalink":"/wiki/read/butler/","title":"巴特勒收集","tags":["feminism"],"created":"2025-06-16T14:31:20.114+08:00"}
 ---
 
 

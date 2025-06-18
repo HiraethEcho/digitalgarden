@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/The-World-in-2025-8-Predictions-for-the-Next-10-Years/","title":"The World in 2025: 8 Predictions for the Next 10 Years","created":"2025-05-31T17:15:05.484+08:00"}
+{"dg-publish":true,"permalink":"/clip/The-World-in-2025-8-Predictions-for-the-Next-10-Years/","title":"The World in 2025: 8 Predictions for the Next 10 Years","created":"2025-06-16T14:31:16.912+08:00"}
 ---
 
 Share 共享

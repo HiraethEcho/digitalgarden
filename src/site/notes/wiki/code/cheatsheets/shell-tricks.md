@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/cheatsheets/shell-tricks/","title":"Tricks in shell","tags":["handbook","tools"],"created":"2025-05-08T19:30:44.222+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/cheatsheets/shell-tricks/","title":"Tricks in shell","tags":["handbook","tools"],"created":"2025-06-16T14:31:20.443+08:00"}
 ---
 
 
