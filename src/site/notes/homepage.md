@@ -56,8 +56,8 @@
 | [[hexo/dynamic/update\|update]]                                     | 近期更新与往期推荐            | <ul></ul>                                                                   | \-      |
 | [[hexo/essays/JohnnyKeepWalking\|JohnnyKeepWalking]]                | 《年会不能停》的简单影评         | <ul><li>影评</li><li>ideology</li></ul>                                       | \-      |
 | [[hexo/essays/alibaba\|alibaba]]                                    | 做题家、数学家和无良媒体         | <ul><li>media</li></ul>                                                     | \-      |
-| [[hexo/essays/dome\|dome]]                                          | 诺顿穹顶、决定论与自由意志        | <ul><li>science</li><li>philosophy</li><li>life</li><li>free</li></ul>      | \-      |
 | [[hexo/essays/copyleft\|copyleft]]                                  | copyleft             | <ul><li>media</li><li>free</li><li>right</li></ul>                          | \-      |
+| [[hexo/essays/dome\|dome]]                                          | 诺顿穹顶、决定论与自由意志        | <ul><li>science</li><li>philosophy</li><li>life</li><li>free</li></ul>      | \-      |
 | [[hexo/essays/fire-of-love\|fire-of-love]]                          | 跃入永恒的爱情              | <ul><li>love</li><li>friends</li><li>影评</li></ul>                           | \-      |
 | [[hexo/essays/freedom\|freedom]]                                    | freedom              | <ul><li>free</li><li>rights</li></ul>                                       | \-      |
 | [[hexo/essays/introexistentialism\|introexistentialism]]            | 当代危机和存在主义            | <ul><li>philosophy</li><li>life</li><li>existence</li></ul>                 | \-      |

@@ -20,7 +20,7 @@
         - mmtc (no, weird config)
         - rmpc
 
-`easytag` to edit metadata of a audio file. 
+`easytag` to edit metadata of a audio file.
 
 #### mpv
 
@@ -35,6 +35,10 @@ so powerful
 #### systemd-manager-tui
 
 [systemd-manager-tui](https://crates.io/crates/systemd-manager-tui)
+
+#### aconfmgr
+
+A configuration manager for Arch Linux. Kind of like nixOS. [github](https://github.com/CyberShadow/aconfmgr)
 
 ## DE
 
