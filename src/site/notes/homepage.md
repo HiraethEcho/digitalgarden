@@ -49,8 +49,8 @@
 | [[hexo/about\|about]]                                               | about                | \-                                                                          | \-      |
 | [[hexo/contemplation/free-and-death\|free-and-death]]               | 若自杀不自由，则生存不勇敢        | <ul><li>philosophy</li><li>life</li></ul>                                   | \-      |
 | [[hexo/dynamic/books\|books]]                                       | \-                   | \-                                                                          | \-      |
-| [[hexo/dynamic/ideas\|ideas]]                                       | 零碎的灵感                | \-                                                                          | \-      |
 | [[hexo/dynamic/moment\|moment]]                                     | 即刻                   | \-                                                                          | \-      |
+| [[hexo/dynamic/ideas\|ideas]]                                       | 零碎的灵感                | \-                                                                          | \-      |
 | [[hexo/dynamic/poems\|poems]]                                       | 诗                    | <ul><li>poem</li></ul>                                                      | \-      |
 | [[hexo/dynamic/seize_myself\|seize_myself]]                         | Seize Myself         | <ul><li>life</li></ul>                                                      | \-      |
 | [[hexo/dynamic/update\|update]]                                     | 近期更新与往期推荐            | <ul></ul>                                                                   | \-      |
@@ -135,6 +135,7 @@ draft:
 
 { .block-language-dataview}
 others:-->
+
 ### blog draft
 
 | File                                                                   | title               | tags                                                        |
