@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/taskwarrior/","title":"taskwarrior","created":"2025-06-17T15:53:45.212+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/taskwarrior/","title":"taskwarrior","created":"2025-06-21T17:59:44.158+08:00"}
 ---
 
 
 # taskwarrior
 
-## help
+## overview
 
 Command-line to-do list manager. [More information](https://taskwarrior.org/docs/).
 
@@ -49,21 +49,6 @@ Documentation for Taskwarrior can be found using 'man task', 'man taskrc', 'man 
 The general form of commands is:
   task [<filter>] <command> [<mods>]
 
-The <filter> consists of zero or more restrictions on which tasks to select, such as:
-  task                                      <command> <mods>
-  task 28                                   <command> <mods>
-  task +weekend                             <command> <mods>
-  task project:Home due.before:today        <command> <mods>
-  task ebeeab00-ccf8-464b-8b58-f7f2d606edfb <command> <mods>
-
-By default, filter elements are combined with an implicit 'and' operator, but 'or' and 'xor' may also be used, provided parentheses are included:
-  task '(/[Cc]at|[Dd]og/ or /[0-9]+/)'      <command> <mods>
-
-A filter may target specific tasks using ID or UUID numbers.  To specify multiple tasks use one of these forms:
-  task 1,2,3                                    delete
-  task 1-3                                      info
-  task 1,2-5,19                                 modify pri:H
-  task 4-7 ebeeab00-ccf8-464b-8b58-f7f2d606edfb info
 
 The <mods> consist of zero or more changes to apply to the selected tasks, such as:
   task <filter> <command> project:Home
@@ -92,25 +77,15 @@ Built-in attributes are:
   scheduled:      Date task is scheduled to start
   modified:       Date task was last modified
   depends:        Other tasks that this task depends upon
+Alternately algebraic expressions support:
+  and  or  xor            Logical operators
+  <  <=  =  !=  >=  >     Relational operators
+  (  )                    Precedence
 
-Attribute modifiers make filters more precise.  Supported modifiers are:
+  task due.before:eom priority.not:L   list
+  task '(due < eom and priority != L)'  list
+```
 
-  Modifiers         Example            Equivalent           Meaning
-  ----------------  -----------------  -------------------  -------------------------
-                    due:today          due = today          Fuzzy match
-  not               due.not:today      due != today         Fuzzy non-match
-  before, below     due.before:today   due < today          Exact date comparison
-  after, above      due.after:today    due >= tomorrow      Exact date comparison
-  none              project.none:      project == ''        Empty
-  any               project.any:       project !== ''       Not empty
-  is, equals        project.is:x       project == x         Exact match
-  isnt              project.isnt:x     project !== x        Exact non-match
-  has, contains     desc.has:Hello     desc ~ Hello         Pattern match
-  hasnt,            desc.hasnt:Hello   desc !~ Hello        Pattern non-match
-  startswith, left  desc.left:Hel      desc ~ '^Hel'        Beginning match
-  endswith, right   desc.right:llo     desc ~ 'llo
-
-## Command Line Syntax
 
 Taskwarrior has a flexible command line syntax, but it may not be clear at first what the underlying structure means. Here is the general form of the syntax:
 
@@ -610,8 +585,73 @@ report.simple.sort        project+/,entry+
 Now the report is fully configured, it joins the others and is used in the same way.
 
 ## filter
+```
+The <filter> consists of zero or more restrictions on which tasks to select, such as:
+  task                                      <command> <mods>
+  task 28                                   <command> <mods>
+  task +weekend                             <command> <mods>
+  task project:Home due.before:today        <command> <mods>
+  task ebeeab00-ccf8-464b-8b58-f7f2d606edfb <command> <mods>
+
+By default, filter elements are combined with an implicit 'and' operator, but 'or' and 'xor' may also be used, provided parentheses are included:
+  task '(/[Cc]at|[Dd]og/ or /[0-9]+/)'      <command> <mods>
+
+A filter may target specific tasks using ID or UUID numbers.  To specify multiple tasks use one of these forms:
+  task 1,2,3                                    delete
+  task 1-3                                      info
+  task 1,2-5,19                                 modify pri:H
+  task 4-7 ebeeab00-ccf8-464b-8b58-f7f2d606edfb info
+```
+
+### attributes
+
+```
+Built-in attributes are:
+  description:    Task description text
+  status:         Status of task - pending, completed, deleted, waiting
+  project:        Project name
+  priority:       Priority
+  due:            Due date
+  recur:          Recurrence frequency
+  until:          Expiration date of a task
+  limit:          Desired number of rows in report, or 'page'
+  wait:           Date until task becomes pending
+  entry:          Date task was created
+  end:            Date task was completed/deleted
+  start:          Date task was started
+  scheduled:      Date task is scheduled to start
+  modified:       Date task was last modified
+  depends:        Other tasks that this task depends upon
+
+Attribute modifiers make filters more precise.  Supported modifiers are:
+
+  Modifiers         Example            Equivalent           Meaning
+  ----------------  -----------------  -------------------  -------------------------
+                    due:today          due = today          Fuzzy match
+  not               due.not:today      due != today         Fuzzy non-match
+  before, below     due.before:today   due < today          Exact date comparison
+  after, above      due.after:today    due >= tomorrow      Exact date comparison
+  none              project.none:      project == ''        Empty
+  any               project.any:       project !== ''       Not empty
+  is, equals        project.is:x       project == x         Exact match
+  isnt              project.isnt:x     project !== x        Exact non-match
+  has, contains     desc.has:Hello     desc ~ Hello         Pattern match
+  hasnt,            desc.hasnt:Hello   desc !~ Hello        Pattern non-match
+  startswith, left  desc.left:Hel      desc ~ '^Hel'        Beginning match
+  endswith, right   desc.right:llo     desc ~ 'llo
+
+note that
+
+```
+  by         due.by:today       due <= today         Exact date comparison
+```
 
 ### Tags, Virtual Tags
+
+Tags are arbitrary words, any quantity:
+
++tag The + means add the tag
+-tag The - means remove the tag
 
 The basic tag syntax is very powerful and simple to use. There are two ways to use this, shown here:
 
@@ -981,285 +1021,24 @@ Alternately algebraic expressions support:
   task '(due < eom and priority != L)'  list
 ```
 
-## Command Line Syntax
+note that
 
-Taskwarrior has a flexible command line syntax, but it may not be clear at first what the underlying structure means. Here is the general form of the syntax:
-
-![](https://taskwarrior.org/images/syntax.png)
-
-There are four parts to the syntax (`filter`, `command`, `modifications`, and `miscellaneous`), and each part is optional.
-
-### Command
-
-Each time you run Taskwarrior, you are issuing a `command` either explicitly, or implicitly with the default command (the `default.command` configuration setting). The command you specify determines how the command line is understood by Taskwarrior. Here are some examples of that:
-
-![](https://taskwarrior.org/images/syntaxes.png)
-
-The first example, `task list` is a report with no filter, and the second, `task +home list` is with a filter. The third, `task 12 modify project:Garden` has both a filter and modifications. The last example, `task show editor` has a miscellaneous argument.
-
-Taskwarrior looks for the first argument on the command line that looks like an exact command name, and failing that, looks for an abbreviated command name. It is better to use the full name of a command to avoid ambiguity.
-
-It is the position of the `command` argument, and the type of command that determines how the arguments are understood.
-
-### Filter
-
-A filter is a means of addressing a subset of tasks. Because filters are optional, the simplest case is no filter. A command with no filter addresses all tasks.
-
-Generally filter arguments appear before the command, so any arguments to the left of the command are considered filter arguments.
-
-There is a special case, in which a command that does not support modifications or miscellaneous arguments, expects only filter arguments, and so they can appear before or after the command, without confusing Taskwarrior:
-
-![](https://taskwarrior.org/images/filter.png)
-
-### Modifications
-
-If a command accepts modifications, they generally appear after the command. Most commands that accept modifications also accept filters, and so the filter arguments appear before the command, while the modifications appear after. Here is an example:
-
-![](https://taskwarrior.org/images/modification.png)
-
-This command specifies a compound filter, consisting of more than one term. These terms are logically combined with an `and` operator by default, unless otherwise specified. In this case, tasks that have both the `home` tag, and a `status` value of `pending` are to be modified.
-
-The modifications, appearing after the command, set the `priority` to `H` igh, and the `due` date to the end of the month (`eom`).
-
-Because the filter is evaluated at runtime, we don’t know how many tasks will be modified. It could be none, one, many or all of the tasks. It could be determined with:
-
-{{CODE_BLOCK_2}}
-
-The user writing this command would have an idea of how many tasks this will affect, but this is just an example, with no contextual data shown.
-
-### Miscellaneous
-
-Some commands accept neither a filter, nor modifications, but do accept miscellaneous arguments. An example is the `show` command, that queries configuration settings, and does not accept a filter:
-
-![](https://taskwarrior.org/images/miscellaneous.png)
-
-This is another special case, in which the command only accepts miscellaneous arguments, and so they can appear before or after the command.
-
-### Overrides
-
-Overrides are temporary values for configuration settings, and can be specified anywhere on the command line, because they are not considered to be either filter, modification or miscellaneous. In fact, the command itself doesn’t see the overrides, instead they are handled before the command runs.
-
-![](https://taskwarrior.org/images/override.png)
-
-There can be any number of overrides on the command line, and they have no effect on the syntax.
-
-## Using Dates Effectively
-
-A task does not require a due date, and can simply be a statement of need:
-
-{{CODE_BLOCK_3}}
-
-However, this is exactly the kind of task can benefit from having a due date, and perhaps several other dates also.
-
-There are several dates that can decorate a task, each with its own meaning and effects. You can choose to use some, all or none of these, but like all Taskwarrior features, they are there in case your needs require it, but you do not pay a performance or friction penalty by not using them.
-
-### The due Date
-
-Use a `due` date to specify the exact date by which a task must be completed. This corresponds to the last possible moment when the task can be considered on-time. Using our example, we can set the `due` date to be Alice’s birthday (line breaks added for clarity):
-
-{{CODE_BLOCK_4}}
-
-Now your task has an associated `due` date, to help you determine when you need to work on it. But what effect does this have on Taskwarrior? How can it be used to best advantage?
-
-We call the `due` date of a task ‘metadata’. As such, it is just a piece of data associated with the task, and therefore it can become part of a filter:
-
-{{CODE_BLOCK_5}}
-
-This is one way to find out if any of your tasks are due today. You could also use:
-
-{{CODE_BLOCK_6}}
-
-That is an example of a virtual tag, `TODAY`, which is not a real tag, but is something you can query, and is equivalent to the previous example. Additionally, you can use `DUE` which filters tasks that have a due date today or within the next 7 days, or `WEEK` for all tasks due within the current calendar week, or `YESTERDAY`, `TOMORROW`, `MONTH` and `YEAR`.
-
-Note that number of days in which a task is considered `DUE` can be configured using the `rc.due` setting.
-
-You can find tasks that have any due date at all:
-
-{{CODE_BLOCK_7}}
-
-Or no due date:
-
-{{CODE_BLOCK_8}}
-
-There is also an `overdue` report that makes use of the `OVERDUE` virtual tag, to show you what is already late. If you run the `calendar` report, your due date will be highlighted on it.
-
-What we see here is that Taskwarrior leverages the metadata to drive various features. Several reports will sort by `due` date, and as we see above, a task that has a due date now belongs on your schedule.
-
-### The scheduled Date
-
-A `scheduled` date is different from a `due` date, and represents the earliest opportunity to work on a task. Let’s continue with the same example above. You need to send a birthday card to Alice, but her birthday isn’t until November, so it’s not the kind of task that can be done in advance. Ideally this would be done a few days ahead of the `due` date:
-
-{{CODE_BLOCK_9}}
-
-This means that you need to send Alice a birthday card, no later than 2016-11-08, and no earlier than 2016-11-04.
-
-If a task has a `scheduled` date, then once that date passes, the task is considered ready, and there is a `ready` report and a `READY` virtual tag for this:
-
-{{CODE_BLOCK_10}}
-
-Tasks that have no `scheduled` date are considered always ready. Again, metadata drives the sophistication of your task list.
-
-### The wait Date
-
-Many people do not like to look at long task lists, finding them daunting, or just distracting. You can add a `wait` date to a task, which has the effect of hiding the task from you until that date. In our example, Alice’s birthday isn’t close yet, so we applied a `scheduled` date to indicate that we should not begin the task yet, as it is not ready. Now let’s add a `wait` date to the task:
-
-{{CODE_BLOCK_11}}
-
-Here the task is given a `wait` date of 2016-11-01, via the useful shortcut ’november’, which means the task will not appear on lists until November. At that time, it will reappear, but it will still not be ready until 2016-11-04.
-
-You can view all the hidden waiting tasks using the `waiting` report:
-
-{{CODE_BLOCK_12}}
-
-There is a `WAITING` virtual tag to select these tasks, but note that you have to use the `all` report with it, otherwise you get conflicts with the other reports that specify a ‘pending’ status, because a waiting task is not pending.
-
-### The until Date
-
-Now suppose I miss Alice’s birthday completely. Shame on me. The task would be overdue, but this is the kind of task where I don’t want to complete it late, I’d rather just forget it, and wish Alice a belated happy birthday in person. I could simply delete or complete the task, but there is another option, which is to add an `until` date:
-
-{{CODE_BLOCK_13}}
-
-This means that on 2016-11-10, the task self-destructs, and is automatically deleted. This might be the right thing to do for a birthday card task, but is not suitable for a “Pay the rent” task. Beware!
-
-There is a DOM-based shortcut you can use, to make the command above a little more formulaic:
-
-{{CODE_BLOCK_14}}
-
-This is evaluated only at task creation time, so if you change the due date, you also need to change the other dates. Note there is an `UNTIL` virtual tag to show you all tasks that are set to auto-expire.
-
-### Other Dates
-
-There are other dates associated with a task, but these are more for internal use, and are less useful for you.
-
-Each task has an `entry` date which records when it was created. Each completed or deleted task has an `end` date, which records when it was completed or deleted. An active, or started task has a `start` date, but only while it is in the active state. Finally, every task has a `modification` date, which records when it was last modified. This is used as a hint when tasks are being synced.
-
-In addition, you may find you have a use case for a different kind of date for your task lists. For example, you may adhere to an agile development process, and a task may be assigned to a sprint, and that sprint may be identified by its end date. You can add arbitrary dates like this to Taskwarrior by defining a [User Defined Attribute](https://taskwarrior.org/docs/udas/) (UDA) and then storing that metadata with your tasks. In this case, Taskwarrior will do nothing with your UDA but store it, and let you use it in reports and filters.
-
-### Urgency
-
-The presence and values of date metadata in your tasks affects the urgency calculations. For example, if a task is blocked by a dependency, the urgency is reduced. Similarly, tasks that are ready have an elevated urgency.
-
-## Reports
-
-Taskwarrior has three kinds of reports. There are built-in reports that cannot be modified, such as `info` and `summary`. There are built-in reports which can be redefined completely or eliminated, such as `list`, `next`. And finally there are your own custom reports. To generate a list of _all_ the reports, use the `reports` command:
-
-{{CODE_BLOCK_15}}
-
-### Built-In Static Reports
-
-Typically, a report consists of a table of data, with one row of data corresponding to a single task, with the task attributes represented as columns. But there are other reports which do not conform to this structure. Those are the built-in static reports, and they are not modifiable, because they are quirky and require custom code. These reports are:
-
-{{CODE_BLOCK_16}}
-
-Each of these reports takes non-standard arguments, may or may not support filters, and generates distinctive output.
-
-### Built-In Modifiable Reports
-
-These reports are standard format, using standard arguments, and are also modifiable.
-
-{{CODE_BLOCK_17}}
-
-Suppose you wanted to remove a column from one of these reports, for example removing `tags` from the `minimal` report. First look at the existing columns and labels of the `minimal` report:
-
-{{CODE_BLOCK_18}}
-
-Having determined what the current values are, simply override with the new values:
-
-{{CODE_BLOCK_19}}
-
-You can think of the built-in modifiable reports as a set of default custom reports.
-
-### Custom Reports
-
-Defining a custom report is straightforward. You have control over the data shown, the sort order and the column labels. A custom report is simply a set of configuration values, and those values include:
-
-- description
-- columns
-- labels
-- sort
-- filter
-
-Let us quickly create a custom report, which will be named `simple`. This report will display the task ID, project name and description. We will need to gather the five settings listed above.
-
-The description is the easiest, and in this case the report will be described:
-
-{{CODE_BLOCK_20}}
-
-This is just a descriptive label that will be used when the report is listed. Next we need to specify the columns in the report, and the order in which those are shown. Here the `_columns` helper command will show the columns available:
-
-{{CODE_BLOCK_21}}
-
-That represents all the data that Taskwarrior stores, and therefore all the data that may be shown in a report. Our `simple` report will show id, project and description, which are all in the list. This means our column list is simply:
-
-{{CODE_BLOCK_22}}
-
-But there are also formats for each column, and the `columns` command shows them, with examples. Here are the formats for our three columns:
-
-{{CODE_BLOCK_23}}
-
-This is easy, because there is only one `id` format.
-
-{{CODE_BLOCK_24}}
-
-{{CODE_BLOCK_25}}
-
-There are three formats for the `project` column, and the default, `full` is the one we want.
-
-{{CODE_BLOCK_26}}
-
-{{CODE_BLOCK_27}}
-
-There are five formats for description. This time we prefer the `count` format, so our columns list is now:
-
-{{CODE_BLOCK_28}}
-
-Labels are the column heading labels in the report. There are defaults, but we wish to specify these like this:
-
-{{CODE_BLOCK_29}}
-
-Sorting is also straightforward, and we want the tasks sorted by project, and then by entry, which is the creation date for a task. This illustrates that a task attribute that is not visible can be used in the sort. The sort order is then:
-
-{{CODE_BLOCK_30}}
-
-The `+` means an ascending order, but we could have used `-` for descending. The `/` solidus indicates that `project` is a break column, which means a blank line is inserted between unique values, for a visual grouping effect. 2.4.0
-
-Finally, we need a filter, otherwise our report will just display all tasks, which is rarely wanted. Here we wish to see only pending tasks, and that means the filter is:
-
-{{CODE_BLOCK_31}}
-
-Now we have our report definition, so we just create the five configuration entries like this:
-
-{{CODE_BLOCK_32}}
-
-Note the equivalent report directly from the config file would look like that:
-
-{{CODE_BLOCK_33}}
-
-And it is finished. Run the report like this:
-
-{{CODE_BLOCK_34}}
-
-Custom reports also show up in the help output.
-
-{{CODE_BLOCK_35}}
-
-I can inspect the configuration.
-
-{{CODE_BLOCK_36}}
-
-Now the report is fully configured, it joins the others and is used in the same way.
-
-## filter
+{{CODE_BLOCK_39}}
 
 ### Tags, Virtual Tags
 
+Tags are arbitrary words, any quantity:
+
++tag The + means add the tag
+-tag The - means remove the tag
+
 The basic tag syntax is very powerful and simple to use. There are two ways to use this, shown here:
 
-{{CODE_BLOCK_37}}
+{{CODE_BLOCK_40}}
 
 These two commands illustrate the complete tag interface. The first command is a filter that lists only tasks that have the `HOME` tag. The second command is a filter that lists only tasks that _do not_ have the `WORK` tag. The + and - syntax therefore means presence and absence of a tag. This is simple to use, and can be combined like this:
 
-{{CODE_BLOCK_38}}
+{{CODE_BLOCK_41}}
 
 This shows tasks that have the `HOME` tag, but do not have the `WORK` tag. This is a very simple and easy to use mechanism, but it does require that your tasks are properly tagged. In other words, it is based directly on task metadata.
 
@@ -1269,11 +1048,11 @@ A tag may be any single word that does not start with a digit, punctuation, or m
 
 Some Taskwarrior filters are simple in concept, but the syntax is not that straightforward. For example, to determine whether a task has a due date that falls on the current day, you need to use this filter:
 
-{{CODE_BLOCK_39}}
+{{CODE_BLOCK_42}}
 
 This filters tasks with a due date during the narrow time window of ’today’. Note that it is not sufficient to just specify the date, because due dates all have associated times (defaulting to 0:00:00), and if you want to match the date, you need to consider the time. So for example, this command _does not_ list tasks due today:
 
-{{CODE_BLOCK_40}}
+{{CODE_BLOCK_43}}
 
 Instead, this filter matches tasks with a due date of today, and a time of 0:00. In order to see all tasks due today, you need to provide proper range bracketing.
 
@@ -1281,15 +1060,15 @@ Instead, this filter matches tasks with a due date of today, and a time of 0:00.
 
 Here is where virtual tags can help, by providing a simple tag interface to more complex state conditions of the task. There is a virtual tag, named `TODAY` that can be used in filters, and it means that instead of this filter:
 
-{{CODE_BLOCK_41}}
+{{CODE_BLOCK_44}}
 
 We can now use this:
 
-{{CODE_BLOCK_42}}
+{{CODE_BLOCK_45}}
 
 Which is a much simpler way of filtering tasks due today. Because this is a tag interface, we can also invert it:
 
-{{CODE_BLOCK_43}}
+{{CODE_BLOCK_46}}
 
 This shows only tasks that are not due today.
 
@@ -1336,7 +1115,7 @@ Since version 2.2.0, Taskwarrior has supported virtual tags, and the list will c
 
 A recurring task is a task with a due date that keeps coming back as a reminder. Here is an example:
 
-{{CODE_BLOCK_44}}
+{{CODE_BLOCK_47}}
 
 This task has a due date, a monthly recurrence, and an optional until date coinciding with the end of the lease.
 
@@ -1344,11 +1123,11 @@ A recurring task is given a status of `recurring` which hides it from view, alth
 
 Here is a look at the template task:
 
-{{CODE_BLOCK_45}}
+{{CODE_BLOCK_48}}
 
 Now if you run a report, such as `task list`, you will see the first instance of that recurring task generated. We can take a look at the instance:
 
-{{CODE_BLOCK_46}}
+{{CODE_BLOCK_49}}
 
 Notice how the instance has a status `pending`, and a reference back to the template task (Parent task). In addition, you can see it inherited the recurrence and description, and if there was a project, priority and tags, those would also be inherited.
 
@@ -1356,7 +1135,7 @@ The recurring instance has an attribute named ‘Mask Index’, which is zero. T
 
 Now if we look back at the template task, we see changes:
 
-{{CODE_BLOCK_47}}
+{{CODE_BLOCK_50}}
 
 The template task now has a `mask` attribute, and some change history. That `mask` is a string of task statuses. It has a value of `-` which indicates that one instance was created, task 124, because it is one character long. The `-` means that instance is still pending. This is how the template task keeps track of what it does and does not need to generate. When the task instance changes status that `-` becomes `+` (completed) or `X` (deleted) or `W` (waiting).
 
@@ -1368,43 +1147,43 @@ In this example one task instance is generated for the next due period. This is 
 
 Taskwarrior has a Document Object Model, or DOM, which defines a way to reference all the data managed by taskwarrior. You may be familiar with the DOM implemented by web browsers that let you access details on a page programmatically. For example:
 
-{{CODE_BLOCK_48}}
+{{CODE_BLOCK_51}}
 
 Taskwarrior allows the same kind of data access in a similar form, for example:
 
-{{CODE_BLOCK_49}}
+{{CODE_BLOCK_52}}
 
 This references the description text of task 1. There is a [`_get` helper command](https://taskwarrior.org/docs/commands/_get/) that queries data using a DOM reference. Let’s see it in action, by first creating a detailed task.
 
-{{CODE_BLOCK_50}}
+{{CODE_BLOCK_53}}
 
 All the attributes of that task are available via DOM references. Here are some examples:
 
-{{CODE_BLOCK_51}}
+{{CODE_BLOCK_54}}
 
 ### Supported References
 
 system.version: The version of taskwarrior, for example:
 
-{{CODE_BLOCK_52}}
+{{CODE_BLOCK_55}}
 
 system.os: The operating system, for example:
 
-{{CODE_BLOCK_53}}
+{{CODE_BLOCK_56}}
 
 rc.<name>: Any configuration value default, with any overrides from the `.taskrc` applied, then with any command line overrides applied last. For example:
 
-{{CODE_BLOCK_54}}
+{{CODE_BLOCK_57}}
 
 <attribute>: Any task attribute. Note that no task ID or UUID is specified, so this variant is only useful on the command line like this:
 
-{{CODE_BLOCK_55}}
+{{CODE_BLOCK_58}}
 
 Note that ‘due’ is a DOM reference from earlier on the command line.
 
 <id>.<attribute>: Any attribute of the specified task ID. For example:
 
-{{CODE_BLOCK_56}}
+{{CODE_BLOCK_59}}
 
 This makes the new task dependent on task 3, and scheduled on the due date of task 3. Note that ‘3.due’ is a DOM reference of a specific task.
 
@@ -1413,39 +1192,39 @@ This makes the new task dependent on task 3, and scheduled on the due date of ta
 Any attribute that is of type `date` can be directly accessed as a date, or it can be accessed by the elements of that date. For example:
 
 - `<date>.year` - 2.4.0 The year, for example:
-    {{CODE_BLOCK_57}}
-- `<date>.month` - 2.4.0 The month, for example:
-    {{CODE_BLOCK_58}}
-- `<date>.day` - 2.4.0 The day of the month, for example:
-    {{CODE_BLOCK_59}}
-- `<date>.week` - 2.4.0 The week number of the date, for example:
     {{CODE_BLOCK_60}}
-- `<date>.weekday` - 2.4.0 The numbered weekday of the date, where 0 is Sunday and 6 is Saturday. For example:
+- `<date>.month` - 2.4.0 The month, for example:
     {{CODE_BLOCK_61}}
-- `<date>.julian` - 2.4.0 The Julian day of the date, which is the day number of the date in the year. For example, January 1st is 1, February 10th is 41. For example:
+- `<date>.day` - 2.4.0 The day of the month, for example:
     {{CODE_BLOCK_62}}
-- `<date>.hour` - 2.4.0 The hour of the day, for example:
+- `<date>.week` - 2.4.0 The week number of the date, for example:
     {{CODE_BLOCK_63}}
-- `<date>.minute` - 2.4.0 The minute of the hour, for example:
+- `<date>.weekday` - 2.4.0 The numbered weekday of the date, where 0 is Sunday and 6 is Saturday. For example:
     {{CODE_BLOCK_64}}
-- `<date>.second` - 2.4.0 The seconds of the minute, for example:
+- `<date>.julian` - 2.4.0 The Julian day of the date, which is the day number of the date in the year. For example, January 1st is 1, February 10th is 41. For example:
     {{CODE_BLOCK_65}}
+- `<date>.hour` - 2.4.0 The hour of the day, for example:
+    {{CODE_BLOCK_66}}
+- `<date>.minute` - 2.4.0 The minute of the hour, for example:
+    {{CODE_BLOCK_67}}
+- `<date>.second` - 2.4.0 The seconds of the minute, for example:
+    {{CODE_BLOCK_68}}
 
 Tags can be accessed as a single item as an `<attribute>`, of the individual tags can be accessed:
 
 - `tags.<literal>` - 2.4.0 Direct access, per-tag, for example:
-    {{CODE_BLOCK_66}}
+    {{CODE_BLOCK_69}}
     If the tag is present, it is shown, otherwise the result is blank, and Taskwarrior exits with a non-zero status.
-    {{CODE_BLOCK_67}}
+    {{CODE_BLOCK_70}}
     Workѕ for virtual tags too, in the same manner.
 
 Annotations are compound data structures, with two elements, which are `description` and `entry`. Annotations are accessed by an ordinal.
 
 - `annotations.<N>.description` - 2.4.0 The description of the Nth annotation, for example:
-    {{CODE_BLOCK_68}}
+    {{CODE_BLOCK_71}}
 - `annotations.<N>.entry` - 2.4.0 The creation timestamp of the Nth annotation, for example:
-    {{CODE_BLOCK_69}}
+    {{CODE_BLOCK_72}}
     Note that because `entry` is of type `date`, the individual elements can be addressed, as above, for example:
-    {{CODE_BLOCK_70}}
+    {{CODE_BLOCK_73}}
 
 UDA values can be accessed in the same manner.

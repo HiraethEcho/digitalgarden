@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/arch/archpostinstall/","title":"安装后的建议配置","tags":["arch","handbook"],"created":"2025-06-16T14:31:20.385+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/arch/archpostinstall/","title":"安装后的建议配置","tags":["arch","handbook"],"created":"2025-06-21T17:59:44.258+08:00"}
 ---
 
 
@@ -9,13 +9,7 @@
 
 ## add user
 
-首先设置root密码
 
-```
-passwd root
-```
-
-设置密码是静默输入，不会显示密码，输入两次即可。
 
 添加用户并设置密码
 

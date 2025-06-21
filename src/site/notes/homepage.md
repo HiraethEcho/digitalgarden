@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Hiraeth's Digital Garden","tags":["gardenEntry"],"created":"2025-06-16T14:31:16.076+08:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Hiraeth's Digital Garden","tags":["gardenEntry"],"created":"2025-06-21T17:59:43.398+08:00"}
 ---
 
 
@@ -48,9 +48,9 @@
 | [[hexo/memo/vmc\|vmc]]                                              | 从智能底盘说起              | <ul><li>memo</li></ul>                                                      | beta    |
 | [[hexo/about\|about]]                                               | about                | \-                                                                          | \-      |
 | [[hexo/contemplation/free-and-death\|free-and-death]]               | 若自杀不自由，则生存不勇敢        | <ul><li>philosophy</li><li>life</li></ul>                                   | \-      |
-| [[hexo/dynamic/books\|books]]                                       | \-                   | \-                                                                          | \-      |
-| [[hexo/dynamic/moment\|moment]]                                     | 即刻                   | \-                                                                          | \-      |
+| [[hexo/dynamic/books\|books]]                                       | 书单                   | \-                                                                          | \-      |
 | [[hexo/dynamic/ideas\|ideas]]                                       | 零碎的灵感                | \-                                                                          | \-      |
+| [[hexo/dynamic/moment\|moment]]                                     | 即刻                   | \-                                                                          | \-      |
 | [[hexo/dynamic/poems\|poems]]                                       | 诗                    | <ul><li>poem</li></ul>                                                      | \-      |
 | [[hexo/dynamic/seize_myself\|seize_myself]]                         | Seize Myself         | <ul><li>life</li></ul>                                                      | \-      |
 | [[hexo/dynamic/update\|update]]                                     | 近期更新与往期推荐            | <ul></ul>                                                                   | \-      |
