@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/task_workflow/","title":"待办、记录、日历的工作流","tags":["life"],"created":"2025-06-21T17:59:44.128+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/task_workflow/","title":"待办、记录、日历的工作流","tags":["life"],"created":"2025-06-22T11:31:45.690+08:00"}
 ---
 
 
@@ -42,4 +42,31 @@ example
 
 ```sh
 khal new -g cat1,cat2 -m 15m 2025-06-22 12:00 2025-06-23 13:00 "cmdline summary" :: descrpition after double colons
+```
+
+## caldav ical
+
+一个简单的周期任务
+```ics
+BEGIN:VCALENDAR
+CALSCALE:GREGORIAN
+PRODID:-//Apple Inc.//iPhone OS 18.5//EN
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20250620T052320Z
+DESCRIPTION:备注\n周期任务，每周，到7 20
+DTEND;VALUE=DATE:20250621
+DTSTAMP:20250622T035111Z
+DTSTART;VALUE=DATE:20250620
+LAST-MODIFIED:20250622T035110Z
+RRULE:FREQ=DAILY;UNTIL=20250722;INTERVAL=3
+SEQUENCE:1
+SUMMARY:Test title add on arch
+UID:B1DA3A78-7C4A-44FF-B6E9-6BCDA1D40C82
+URL;VALUE=URI:
+X-APPLE-CREATOR-IDENTITY:com.apple.mobilecal
+X-APPLE-CREATOR-TEAM-IDENTITY:0000000000
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
 ```
