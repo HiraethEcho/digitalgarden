@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manningfalting/CS-language/","created":"2025-06-24T16:25:29.536+08:00"}
+{"dg-publish":true,"permalink":"/wiki/raw/CS-language/","created":"2025-06-16T14:31:16.225+08:00"}
 ---
 
 

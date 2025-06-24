@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manningfalting/cli/","created":"2025-06-24T16:25:29.574+08:00"}
+{"dg-publish":true,"permalink":"/wiki/raw/cli/","created":"2025-06-16T14:31:16.250+08:00"}
 ---
 
 

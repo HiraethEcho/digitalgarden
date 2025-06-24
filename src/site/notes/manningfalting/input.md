@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manningfalting/input/","created":"2025-06-16T14:31:16.272+08:00"}
+{"dg-publish":true,"permalink":"/manningfalting/input/","created":"2025-06-24T16:25:29.463+08:00"}
 ---
 
 在哲学中，**“知识形成之前获取的知觉材料”**这一概念通常与以下核心术语和理论相关：

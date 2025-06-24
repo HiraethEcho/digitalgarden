@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/manningfalting/linux/","created":"2025-06-24T16:25:29.452+08:00"}
+{"dg-publish":true,"permalink":"/wiki/raw/linux/","created":"2025-06-16T14:31:16.276+08:00"}
 ---
 
 
