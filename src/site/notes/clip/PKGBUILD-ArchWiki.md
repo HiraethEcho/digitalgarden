@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/PKGBUILD-ArchWiki/","title":"PKGBUILD - ArchWiki","created":"2025-06-16T14:31:16.838+08:00"}
+{"dg-publish":true,"permalink":"/clip/PKGBUILD-ArchWiki/","title":"PKGBUILD - ArchWiki","created":"2025-06-25T14:18:43.815+08:00"}
 ---
 
 This article discusses variables definable by the maintainer in a `PKGBUILD`. For information on the `PKGBUILD` functions and creating packages in general, refer to [Creating packages](https://wiki.archlinux.org/title/Creating_packages "Creating packages"). Also read [PKGBUILD(5)](https://man.archlinux.org/man/PKGBUILD.5).

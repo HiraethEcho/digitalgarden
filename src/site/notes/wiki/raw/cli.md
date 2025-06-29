@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/raw/cli/","created":"2025-06-16T14:31:16.250+08:00"}
+{"dg-publish":true,"permalink":"/wiki/raw/cli/","created":"2025-06-28T17:48:49.066+08:00"}
 ---
 
 
@@ -111,4 +111,11 @@ Show the time on the west coast of the US (use tzselect(1) to find TZ)
 
 Show the local time for 9AM next Friday on the west coast of the US
   $ date --date='TZ="America/Los_Angeles" 09:00 next Fri'
+```
+
+## chattr
+
+```
+sudo chattr +i /etc/resolv.conf  # 设置文件不可修改
+sudo chattr -i /etc/resolv.conf  # 解除
 ```

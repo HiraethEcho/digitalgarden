@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/raw/fcitx/","created":"2025-06-16T14:31:16.256+08:00"}
+{"dg-publish":true,"permalink":"/wiki/raw/fcitx/","created":"2025-06-25T14:18:47.015+08:00"}
 ---
 
 

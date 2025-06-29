@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/3in1wiki/","title":"用mkdocs、obsidian、zotero搭建在线文献学习笔记","tags":["pkm"],"created":"2025-06-16T14:31:19.872+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/3in1wiki/","title":"用mkdocs、obsidian、zotero搭建在线文献学习笔记","tags":["pkm"],"created":"2025-06-25T14:18:46.675+08:00"}
 ---
 
 

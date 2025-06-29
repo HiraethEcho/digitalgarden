@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/arch/archwiki/","title":"ArchWiki摘抄","tags":["arch","linux","handbook"],"created":"2025-06-16T14:31:20.406+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/arch/archwiki/","title":"ArchWiki摘抄","tags":["arch","linux","handbook"],"created":"2025-06-25T14:18:47.217+08:00"}
 ---
 
 

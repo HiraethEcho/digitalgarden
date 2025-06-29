@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Mathematical-and-Computational-Linguistics/","title":"Mathematical and Computational Linguistics","created":"2025-06-16T14:31:16.709+08:00"}
+{"dg-publish":true,"permalink":"/clip/Mathematical-and-Computational-Linguistics/","title":"Mathematical and Computational Linguistics","created":"2025-06-25T14:18:43.822+08:00"}
 ---
 
 # MAT1509HS: Mathematical and Computational LinguisticsMAT1509HS： 数学与计算语言学

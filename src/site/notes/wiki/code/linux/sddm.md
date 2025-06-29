@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/linux/sddm/","title":"Display Manager","tags":["linux"],"created":"2025-06-16T14:31:20.266+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/linux/sddm/","title":"Display Manager","tags":["linux"],"created":"2025-06-25T14:18:47.437+08:00"}
 ---
 
 

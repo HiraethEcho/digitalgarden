@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Protests-Guilt-by-Association/","title":"Protests: Guilt by Association","created":"2025-06-16T14:31:16.798+08:00"}
+{"dg-publish":true,"permalink":"/clip/Protests-Guilt-by-Association/","title":"Protests: Guilt by Association","created":"2025-06-25T14:18:43.870+08:00"}
 ---
 
 ![Protest3-300x300](https://hiraeth-picbed.oss-cn-beijing.aliyuncs.com/Protest3-300x300.webp) It is tempting to define a group you do not like by the worst people associated with it, but this can lead to committing the fallacy of guilt by association. To illustrate, conservative protests sometimes include people openly displaying racist symbols and this can lead leftists to conclude that all the protestors are racists. As another example, protests against Israel’s actions sometimes include people who make antisemitic statements, and this leads some people to categorize the protests as antisemitic. While this is often done in bad faith, people can sincerely make unwarranted inferences about protests from the worst people present.  

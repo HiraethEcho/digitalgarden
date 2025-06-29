@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/savoir/history-of-philosoph/","title":"哲学史","created":"2025-06-24T13:55:30.438+08:00"}
+{"dg-publish":true,"permalink":"/wiki/savoir/history-of-philosoph/","title":"哲学史","created":"2025-06-25T14:18:47.152+08:00"}
 ---
 
 

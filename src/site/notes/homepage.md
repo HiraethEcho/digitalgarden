@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homepage/","title":"Hiraeth's Digital Garden","tags":["gardenEntry"],"created":"2025-06-21T17:59:43.398+08:00"}
+{"dg-publish":true,"permalink":"/homepage/","title":"Hiraeth's Digital Garden","tags":["gardenEntry"],"created":"2025-06-25T14:18:42.621+08:00"}
 ---
 
 
@@ -48,6 +48,7 @@
 | [[hexo/memo/vmc\|vmc]]                                              | 从智能底盘说起              | <ul><li>memo</li></ul>                                                      | beta    |
 | [[hexo/about\|about]]                                               | about                | \-                                                                          | \-      |
 | [[hexo/contemplation/free-and-death\|free-and-death]]               | 若自杀不自由，则生存不勇敢        | <ul><li>philosophy</li><li>life</li></ul>                                   | \-      |
+| [[hexo/dynamic/bac\|bac]]                                           | 法国会考哲学               | <ul><li>philosophy</li></ul>                                                | \-      |
 | [[hexo/dynamic/books\|books]]                                       | 书单                   | \-                                                                          | \-      |
 | [[hexo/dynamic/ideas\|ideas]]                                       | 零碎的灵感                | \-                                                                          | \-      |
 | [[hexo/dynamic/moment\|moment]]                                     | 即刻                   | \-                                                                          | \-      |

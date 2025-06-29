@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/vimtex/","title":"Write latex with neovim","tags":["editor","latex","config"],"created":"2025-06-16T14:31:19.931+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/vimtex/","title":"Write latex with neovim","tags":["editor","latex","config"],"created":"2025-06-25T14:18:46.841+08:00"}
 ---
 
 

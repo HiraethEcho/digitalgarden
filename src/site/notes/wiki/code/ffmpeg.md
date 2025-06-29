@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/ffmpeg/","title":"ffmpeg","created":"2025-06-21T17:59:44.111+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/ffmpeg/","title":"ffmpeg","created":"2025-06-25T14:18:46.695+08:00"}
 ---
 
 

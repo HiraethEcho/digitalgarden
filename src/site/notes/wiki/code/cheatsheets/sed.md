@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/cheatsheets/sed/","title":"sed cheatsheet","tags":["handbook"],"created":"2025-06-16T14:31:20.340+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/cheatsheets/sed/","title":"sed cheatsheet","tags":["handbook"],"created":"2025-06-28T17:48:49.146+08:00"}
 ---
 
 
@@ -484,7 +484,7 @@ $ sed 's/#.*$//' file.txt
 
 ```
 
-### [#](#search-for-text)Search for text
+### Search for text
 
 Search for a string and only print the lines that were matched
 

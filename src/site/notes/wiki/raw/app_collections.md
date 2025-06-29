@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/raw/app_collections/","created":"2025-06-21T17:59:43.624+08:00"}
+{"dg-publish":true,"permalink":"/wiki/raw/app_collections/","created":"2025-06-29T14:29:59.644+08:00"}
 ---
 
 
@@ -40,6 +40,25 @@ so powerful
 
 A configuration manager for Arch Linux. Kind of like nixOS. [github](https://github.com/CyberShadow/aconfmgr)
 
+#### linux-firmware
+
+since `linux-firmware` is departed, only need some of them. Use `arch-checkfw` to find which.
+
+`linux-firmware` includes
+
+```
+Depends On      : linux-firmware-amdgpu  linux-firmware-atheros
+                  linux-firmware-broadcom  linux-firmware-cirrus  linux-firmware-intel
+                  linux-firmware-mediatek  linux-firmware-nvidia  linux-firmware-other
+                  linux-firmware-radeon  linux-firmware-realtek
+Optional Deps   : linux-firmware-liquidio: Firmware for Cavium LiquidIO server adapters
+                  linux-firmware-marvell: Firmware for Marvell devices
+                  linux-firmware-mellanox: Firmware for Mellanox Spectrum switches
+                  linux-firmware-nfp: Firmware for Netronome Flow Processors
+                  linux-firmware-qcom: Firmware for Qualcomm SoCs
+                  linux-firmware-qlogic: Firmware for QLogic devices
+```
+
 ## DE
 
 ### wm
@@ -61,6 +80,11 @@ tiling
 [cwc](https://cudiph.github.io/cwc/apidoc/documentation/00-getting-started.md.html)
 
 [github](https://github.com/Cudiph/cwcwm)
+
+### utils
+
+- xorg-xeye: help to find xwayland app while running wayland
+- xev wev: key stroke under X and wayland
 
 ### debug
 
@@ -119,7 +143,41 @@ Tips and tricks: Other examples for situations where Xephyr can be useful are:
 
 #### aerc
 
+###url
+
+### vcs
+
+#### jujustu
+
+[jj](https://github.com/jj-vcs/jj)
+
+#### avc
+
+[AVC](https://github.com/assembler-0/AVC)
+
+Achieve version control
+
+### rss
+
+[glance](https://github.com/glanceapp/glance)
+
+newsboat
+
+
+
 ## useful
+
+### I'm using these
+
+#### github
+
+github-cli
+
+[del-repos](https://www.npmjs.com/package/del-repos)
+
+#### zmk
+
+zmk-studio
 
 ### not now, or not me
 
@@ -132,9 +190,13 @@ Alter for mkinitcpio
 [limine](https://wiki.archlinux.org/title/Limine)
 Alter for grub
 
+#### ninve
+
+[ninve](https://github.com/Niedzwiedzw/ninve) A tui video editor. Use `mpv` to play and `ffmpeg` to edit.
+
 not support fo timeshift btrfs snap yet
 
-### maybe later
+### I'll back here
 
 #### httrack
 
@@ -157,9 +219,6 @@ not support fo timeshift btrfs snap yet
       whois -b 8.8.8.8
 ```
 
-#### jujustu
-
-[jj](https://github.com/jj-vcs/jj)
 
 #### gitoxide
 
@@ -231,11 +290,7 @@ install binary from github
 
 [doc](https://bsr.xinrea.cn/)
 
-### ninve
-
-[ninve](https://github.com/Niedzwiedzw/ninve) A tui video editor. Use `mpv` to play and `ffmpeg` to edit.
-
-### not much useful or necessary
+### not much useful or unnecessary
 
 #### gowall
 
@@ -280,3 +335,9 @@ wallpaper by mpv in wayland
 #### [codesnap](https://codesnap.dev/)
 
 generate pictures of code snaps
+
+### wtf Interesting
+
+#### activate-linux
+
+a watermark

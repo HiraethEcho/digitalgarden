@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Intuitionism-in-mathematics/","title":"Intuitionism in mathematics | Internet Encyclopedia of Philosophy","created":"2025-06-16T14:31:16.748+08:00"}
+{"dg-publish":true,"permalink":"/clip/Intuitionism-in-mathematics/","title":"Intuitionism in mathematics | Internet Encyclopedia of Philosophy","created":"2025-06-25T14:18:43.768+08:00"}
 ---
 
 Intuitionism in mathematics  

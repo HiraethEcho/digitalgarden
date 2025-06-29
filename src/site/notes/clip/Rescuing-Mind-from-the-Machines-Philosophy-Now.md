@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Rescuing-Mind-from-the-Machines-Philosophy-Now/","title":"Rescuing Mind from the Machines","created":"2025-06-16T14:31:17.115+08:00"}
+{"dg-publish":true,"permalink":"/clip/Rescuing-Mind-from-the-Machines-Philosophy-Now/","title":"Rescuing Mind from the Machines","created":"2025-06-25T14:18:43.885+08:00"}
 ---
 
 ![welcome covers](https://philosophynow.org/media/images/regulars/welcome%20covers.png)

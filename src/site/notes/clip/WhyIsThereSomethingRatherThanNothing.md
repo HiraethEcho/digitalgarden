@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/WhyIsThereSomethingRatherThanNothing/","title":"Why Is There Something Rather Than Nothing?","created":"2025-06-16T14:31:16.921+08:00"}
+{"dg-publish":true,"permalink":"/clip/WhyIsThereSomethingRatherThanNothing/","title":"Why Is There Something Rather Than Nothing?","created":"2025-06-25T14:18:43.949+08:00"}
 ---
 
 # Why Is There Something Rather Than Nothing?

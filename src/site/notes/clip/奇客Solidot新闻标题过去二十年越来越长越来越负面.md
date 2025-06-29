@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/奇客Solidot新闻标题过去二十年越来越长越来越负面/","title":"新闻标题过去二十年越来越长越来越负面","created":"2025-06-16T14:31:17.142+08:00"}
+{"dg-publish":true,"permalink":"/clip/奇客Solidot新闻标题过去二十年越来越长越来越负面/","title":"新闻标题过去二十年越来越长越来越负面","created":"2025-06-25T14:18:44.059+08:00"}
 ---
 
 

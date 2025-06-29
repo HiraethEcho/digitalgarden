@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/arch/pacman/","title":"Archlinux 上的包管理","tags":["arch","linux","handbook"],"created":"2025-06-16T14:31:20.430+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/arch/pacman/","title":"Archlinux 上的包管理","tags":["arch","linux","handbook"],"created":"2025-06-25T14:18:47.234+08:00"}
 ---
 
 

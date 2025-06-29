@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/奇客Solidot-女孩的数学表现从上学起开始落后/","title":"奇客Solidot 女孩的数学表现从上学起开始落后","created":"2025-06-21T17:59:43.570+08:00"}
+{"dg-publish":true,"permalink":"/clip/奇客Solidot-女孩的数学表现从上学起开始落后/","title":"奇客Solidot 女孩的数学表现从上学起开始落后","created":"2025-06-25T14:18:44.309+08:00"}
 ---
 
 # 女孩的数学表现从上学起开始落后

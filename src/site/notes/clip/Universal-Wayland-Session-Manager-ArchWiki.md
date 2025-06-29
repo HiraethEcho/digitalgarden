@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/Universal-Wayland-Session-Manager-ArchWiki/","title":"Universal Wayland Session Manager - ArchWiki","created":"2025-06-16T14:31:16.935+08:00"}
+{"dg-publish":true,"permalink":"/clip/Universal-Wayland-Session-Manager-ArchWiki/","title":"Universal Wayland Session Manager - ArchWiki","created":"2025-06-25T14:18:43.918+08:00"}
 ---
 
 The [Universal Wayland Session Manager](https://github.com/Vladimir-csp/uwsm) (**uwsm**) wraps standalone [Wayland compositors](https://wiki.archlinux.org/title/Wayland#Compositors "Wayland") into a set of [systemd](https://wiki.archlinux.org/title/Systemd "Systemd") units on the fly. This provides robust session management including environment, [XDG Autostart](https://wiki.archlinux.org/title/XDG_Autostart "XDG Autostart") support, bi-directional binding with login session, and clean shutdown.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hexo/essays/dome/","title":"诺顿穹顶、决定论与自由意志","tags":["science","philosophy","life","free"],"created":"2025-06-16T14:31:18.937+08:00"}
+{"dg-publish":true,"permalink":"/hexo/essays/dome/","title":"诺顿穹顶、决定论与自由意志","tags":["science","philosophy","life","free"],"created":"2025-06-25T14:18:44.389+08:00"}
 ---
 
 

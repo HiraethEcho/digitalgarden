@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/code/nvim/","title":"My Neovim Config","tags":["arch","editor","config"],"created":"2025-06-16T14:31:19.910+08:00"}
+{"dg-publish":true,"permalink":"/wiki/code/nvim/","title":"My Neovim Config","tags":["arch","editor","config"],"created":"2025-06-25T14:18:46.749+08:00"}
 ---
 
 

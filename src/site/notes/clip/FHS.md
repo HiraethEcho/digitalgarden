@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/clip/FHS/","title":"Linux Filesystem Hierarchy","created":"2025-06-16T14:31:16.666+08:00"}
+{"dg-publish":true,"permalink":"/clip/FHS/","title":"Linux Filesystem Hierarchy","created":"2025-06-25T14:18:43.667+08:00"}
 ---
 
 ## Version 0.65
