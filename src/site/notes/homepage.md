@@ -6,7 +6,7 @@
 # Hiraeth's Digital Garden
 
 ## Lists
-
+![](https://hiraeth-picbed.oss-cn-beijing.aliyuncs.com/sometime-life.webp)
 <!--
 | File                                                                   | title                | tags                                                                        | version |
 | ---------------------------------------------------------------------- | -------------------- | --------------------------------------------------------------------------- | ------- |
@@ -23,7 +23,6 @@
 | [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白           | <ul><li>philosophy</li><li>life</li><li>existence</li></ul>                 | draft   |
 | [[hexo/contemplation/liveinpostmodernworld\|liveinpostmodernworld]] | 后现代生活                | <ul><li>life</li><li>society</li><li>ideology</li></ul>                     | draft   |
 | [[hexo/dynamic/films\|films]]                                       | 影评                   | \-                                                                          | draft   |
-| [[hexo/essays/attack_on_titan\|attack_on_titan]]                    | 进击的巨人：好活，但是整烂了       | <ul><li>ideology</li><li>剧评</li><li>freedom</li></ul>                       | draft   |
 | [[hexo/essays/femalism_films\|femalism_films]]                      | 口嗨女性主义电影             | <ul><li>feminism</li><li>影评</li></ul>                                       | draft   |
 | [[hexo/essays/gay\|gay]]                                            | 从男同看父权制              | <ul><li>feminism</li><li>rights</li></ul>                                   | draft   |
 | [[hexo/essays/knowledge\|knowledge]]                                | 知识论                  | <ul><li>knowledge</li><li>philosophy</li></ul>                              | draft   |
@@ -33,11 +32,9 @@
 | [[hexo/essays/suffragette\|suffragette]]                            | suffragette          | <ul><li>feminism</li><li>ideology</li></ul>                                 | draft   |
 | [[hexo/memo/abuselanguage\|abuselanguage]]                          | 对语言的滥用               | <ul><li>talkshow</li></ul>                                                  | draft   |
 | [[hexo/memo/fucklinus\|fucklinus]]                                  | So Linus, Fuck you!  | <ul><li>irl</li></ul>                                                       | draft   |
-| [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗              | <ul><li>life</li><li>philosophy</li></ul>                                   | draft   |
 | [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向             | <ul><li>philosophy</li></ul>                                                | draft   |
 | [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite         | <ul><li>life</li></ul>                                                      | draft   |
 | [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯               | <ul><li>philosophy</li><li>life</li><li>death</li></ul>                     | draft   |
-| [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫               | <ul><li>life</li><li>media</li><li>philosophy</li></ul>                     | draft   |
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair         | <ul><li>memo</li></ul>                                                      | draft   |
 | [[hexo/essays/art9game\|art9game]]                                  | 第九艺术                 | <ul><li>art</li></ul>                                                       | beta    |
 | [[hexo/essays/herstory\|herstory]]                                  | 不要玩他们的游戏             | <ul><li>影评</li><li>feminism</li></ul>                                       | beta    |
@@ -50,13 +47,16 @@
 | [[hexo/contemplation/free-and-death\|free-and-death]]               | 若自杀不自由，则生存不勇敢        | <ul><li>philosophy</li><li>life</li></ul>                                   | \-      |
 | [[hexo/dynamic/bac\|bac]]                                           | 法国会考哲学               | <ul><li>philosophy</li></ul>                                                | \-      |
 | [[hexo/dynamic/books\|books]]                                       | 书单                   | \-                                                                          | \-      |
+| [[hexo/dynamic/foregin-ideas\|foregin-ideas]]                       | 别人的想法                | \-                                                                          | \-      |
 | [[hexo/dynamic/ideas\|ideas]]                                       | 零碎的灵感                | \-                                                                          | \-      |
+| [[hexo/dynamic/memes\|memes]]                                       | Meme                 | \-                                                                          | \-      |
 | [[hexo/dynamic/moment\|moment]]                                     | 即刻                   | \-                                                                          | \-      |
 | [[hexo/dynamic/poems\|poems]]                                       | 诗                    | <ul><li>poem</li></ul>                                                      | \-      |
 | [[hexo/dynamic/seize_myself\|seize_myself]]                         | Seize Myself         | <ul><li>life</li></ul>                                                      | \-      |
 | [[hexo/dynamic/update\|update]]                                     | 近期更新与往期推荐            | <ul></ul>                                                                   | \-      |
 | [[hexo/essays/JohnnyKeepWalking\|JohnnyKeepWalking]]                | 《年会不能停》的简单影评         | <ul><li>影评</li><li>ideology</li></ul>                                       | \-      |
 | [[hexo/essays/alibaba\|alibaba]]                                    | 做题家、数学家和无良媒体         | <ul><li>media</li></ul>                                                     | \-      |
+| [[hexo/essays/attack_on_titan\|attack_on_titan]]                    | 进击的巨人：好活，但是整烂了       | <ul><li>ideology</li><li>剧评</li><li>freedom</li></ul>                       | \-      |
 | [[hexo/essays/copyleft\|copyleft]]                                  | copyleft             | <ul><li>media</li><li>free</li><li>right</li></ul>                          | \-      |
 | [[hexo/essays/dome\|dome]]                                          | 诺顿穹顶、决定论与自由意志        | <ul><li>science</li><li>philosophy</li><li>life</li><li>free</li></ul>      | \-      |
 | [[hexo/essays/fire-of-love\|fire-of-love]]                          | 跃入永恒的爱情              | <ul><li>love</li><li>friends</li><li>影评</li></ul>                           | \-      |
@@ -64,15 +64,20 @@
 | [[hexo/essays/introexistentialism\|introexistentialism]]            | 当代危机和存在主义            | <ul><li>philosophy</li><li>life</li><li>existence</li></ul>                 | \-      |
 | [[hexo/essays/introphilosophy\|introphilosophy]]                    | 前往痛苦之路：个人观点的哲学入门推荐   | <ul><li>philosophy</li></ul>                                                | \-      |
 | [[hexo/essays/memoryandidentity\|memoryandidentity]]                | 记忆与个人同一性             | <ul><li>existence</li><li>philosophy</li></ul>                              | \-      |
+| [[hexo/essays/mental-prison\|mental-prison]]                        | 现代性监狱                | \-                                                                          | \-      |
 | [[hexo/essays/nezai\|nezai]]                                        | 魔童哪吒                 | <ul><li>影评</li><li>ideology</li></ul>                                       | \-      |
 | [[hexo/essays/onlytheriverflows\|onlytheriverflows]]                | 《河边的错误》影评            | <ul><li>影评</li><li>书评</li></ul>                                             | \-      |
 | [[hexo/essays/orb\|orb]]                                            | ？                    | <ul><li>philosophy</li><li>knowledge</li></ul>                              | \-      |
 | [[hexo/essays/pegasus2\|pegasus2]]                                  | 《飞驰人生2》观后感           | <ul><li>影评</li></ul>                                                        | \-      |
+| [[hexo/essays/postmodern\|postmodern]]                              | 后现代                  | \-                                                                          | \-      |
 | [[hexo/essays/replicant\|replicant]]                                | 神、人、人造人和弑父           | \-                                                                          | \-      |
+| [[hexo/essays/reply_mp\|reply_mp]]                                  | 对公众号的回复              | <ul><li>media</li></ul>                                                     | \-      |
 | [[hexo/essays/road\|road]]                                          | 在路上：对公路电影的粗浅看法       | <ul><li>影评</li><li>free</li><li>life</li></ul>                              | \-      |
 | [[hexo/essays/science2\|science2]]                                  | 作为一种方法论的科学           | <ul><li>science</li><li>philosophy</li><li>free</li><li>knowledge</li></ul> | \-      |
 | [[hexo/essays/sciencefiction\|sciencefiction]]                      | 对科幻的一点看法             | <ul><li>science</li></ul>                                                   | \-      |
 | [[hexo/essays/talkshow-patch\|talkshow-patch]]                      | 再谈脱口秀:一些澄清和狡辩，以及再次锐评 | <ul><li>talkshow</li><li>feminism</li></ul>                                 | \-      |
+| [[hexo/essays/there-is-still-tomorrow\|there-is-still-tomorrow]]    | 还有明天                 | \-                                                                          | \-      |
+| [[hexo/essays/unnormal\|unnormal]]                                  | 文明中的疯癫               | <ul><li>life</li><li>media</li><li>philosophy</li></ul>                     | \-      |
 | [[hexo/essays/yolo\|yolo]]                                          | 《热辣滚烫》观后感            | <ul><li>影评</li><li>feminism</li></ul>                                       | \-      |
 | [[hexo/memo/1in10\|1in10]]                                          | 十分之一的生活              | <ul><li>life</li></ul>                                                      | \-      |
 | [[hexo/memo/actingparents\|actingparents]]                          | 对父母形象的表演             | <ul><li>life</li><li>irl</li><li>family</li></ul>                           | \-      |
@@ -80,8 +85,10 @@
 | [[hexo/memo/heartofpoplar\|heartofpoplar]]                          | heartofpoplar        | \-                                                                          | \-      |
 | [[hexo/memo/idiot\|idiot]]                                          | 《白痴》！                | <ul><li>书评</li><li>剧评</li></ul>                                             | \-      |
 | [[hexo/memo/kafka\|kafka]]                                          | kafka                | <ul><li>书评</li></ul>                                                        | \-      |
+| [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗              | <ul><li>life</li><li>philosophy</li></ul>                                   | \-      |
 | [[hexo/memo/pet\|pet]]                                              | 驯化宠物                 | <ul><li>life</li></ul>                                                      | \-      |
-| [[hexo/memo/reply_mp\|reply_mp]]                                    | 对公众号的回复              | <ul><li>media</li></ul>                                                     | \-      |
+| [[hexo/memo/run-and-fall\|run-and-fall]]                            | 跑步的本质是一连串摔倒          | \-                                                                          | \-      |
+| [[hexo/memo/strandbeest\|strandbeest]]                              | 仿生兽                  | \-                                                                          | \-      |
 | [[hexo/test\|test]]                                                 | 测试                   | \-                                                                          | \-      |
 
 { .block-language-dataview}
@@ -117,7 +124,6 @@ draft:
 | [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白          | 它决不能使我屈服！                                        | <ul><li>philosophy</li><li>life</li><li>existence</li></ul> |
 | [[hexo/contemplation/liveinpostmodernworld\|liveinpostmodernworld]] | 后现代生活               | 支离破碎的生活                                          | <ul><li>life</li><li>society</li><li>ideology</li></ul>     |
 | [[hexo/dynamic/films\|films]]                                       | 影评                  | 持续更新的短影评或影评链接                                    | \-                                                          |
-| [[hexo/essays/attack_on_titan\|attack_on_titan]]                    | 进击的巨人：好活，但是整烂了      | 好活，但是有点烂。烂是因为菜，不是因为坏。                            | <ul><li>ideology</li><li>剧评</li><li>freedom</li></ul>       |
 | [[hexo/essays/femalism_films\|femalism_films]]                      | 口嗨女性主义电影            | 集中评论几部女性主义电影                                     | <ul><li>feminism</li><li>影评</li></ul>                       |
 | [[hexo/essays/gay\|gay]]                                            | 从男同看父权制             | \-                                               | <ul><li>feminism</li><li>rights</li></ul>                   |
 | [[hexo/essays/knowledge\|knowledge]]                                | 知识论                 | 什么是知识                                            | <ul><li>knowledge</li><li>philosophy</li></ul>              |
@@ -127,11 +133,9 @@ draft:
 | [[hexo/essays/suffragette\|suffragette]]                            | suffragette         | 关于女性获取政治权力的文艺作品                                  | <ul><li>feminism</li><li>ideology</li></ul>                 |
 | [[hexo/memo/abuselanguage\|abuselanguage]]                          | 对语言的滥用              | 被乔治·卡琳启发，对使用语言的一些想法                              | <ul><li>talkshow</li></ul>                                  |
 | [[hexo/memo/fucklinus\|fucklinus]]                                  | So Linus, Fuck you! | 自由何去何从？                                          | <ul><li>irl</li></ul>                                       |
-| [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗             | 有病也不治                                            | <ul><li>life</li><li>philosophy</li></ul>                   |
 | [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向            | 社会学、西马似乎对未来有一种悲观倾向                               | <ul><li>philosophy</li></ul>                                |
 | [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite        | 为什么读书与写作？                                        | <ul><li>life</li></ul>                                      |
 | [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯              | 饥饿，不是因为高尚而是因为没有找到喜欢的食物；走向绞刑架，自知又逃避。              | <ul><li>philosophy</li><li>life</li><li>death</li></ul>     |
-| [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫              | 心理生理文化观念上的不正常人是什么，以及如何对待他们或自处。                   | <ul><li>life</li><li>media</li><li>philosophy</li></ul>     |
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair        | 不干不净的衣服放在椅子上。这个世界似乎就是这个状态                        | <ul><li>memo</li></ul>                                      |
 
 { .block-language-dataview}
@@ -144,7 +148,6 @@ others:-->
 | [[hexo/contemplation/idealist\|idealist]]                           | 一个理想主义者的辩白          | <ul><li>philosophy</li><li>life</li><li>existence</li></ul> |
 | [[hexo/contemplation/liveinpostmodernworld\|liveinpostmodernworld]] | 后现代生活               | <ul><li>life</li><li>society</li><li>ideology</li></ul>     |
 | [[hexo/dynamic/films\|films]]                                       | 影评                  | \-                                                          |
-| [[hexo/essays/attack_on_titan\|attack_on_titan]]                    | 进击的巨人：好活，但是整烂了      | <ul><li>ideology</li><li>剧评</li><li>freedom</li></ul>       |
 | [[hexo/essays/femalism_films\|femalism_films]]                      | 口嗨女性主义电影            | <ul><li>feminism</li><li>影评</li></ul>                       |
 | [[hexo/essays/gay\|gay]]                                            | 从男同看父权制             | <ul><li>feminism</li><li>rights</li></ul>                   |
 | [[hexo/essays/knowledge\|knowledge]]                                | 知识论                 | <ul><li>knowledge</li><li>philosophy</li></ul>              |
@@ -154,11 +157,9 @@ others:-->
 | [[hexo/essays/suffragette\|suffragette]]                            | suffragette         | <ul><li>feminism</li><li>ideology</li></ul>                 |
 | [[hexo/memo/abuselanguage\|abuselanguage]]                          | 对语言的滥用              | <ul><li>talkshow</li></ul>                                  |
 | [[hexo/memo/fucklinus\|fucklinus]]                                  | So Linus, Fuck you! | <ul><li>irl</li></ul>                                       |
-| [[hexo/memo/no-treatment\|no-treatment]]                            | 为什么拒绝治疗             | <ul><li>life</li><li>philosophy</li></ul>                   |
 | [[hexo/memo/pessimistic\|pessimistic]]                              | 社会学的悲观倾向            | <ul><li>philosophy</li></ul>                                |
 | [[hexo/memo/readandwrite\|readandwrite]]                            | readandwrite        | <ul><li>life</li></ul>                                      |
 | [[hexo/memo/shoelace\|shoelace]]                                    | 饥饿的死刑犯              | <ul><li>philosophy</li><li>life</li><li>death</li></ul>     |
-| [[hexo/memo/unnormal\|unnormal]]                                    | 文明中的疯癫              | <ul><li>life</li><li>media</li><li>philosophy</li></ul>     |
 | [[hexo/memo/worldonchair\|worldonchair]]                            | worldonchair        | <ul><li>memo</li></ul>                                      |
 
 { .block-language-dataview}

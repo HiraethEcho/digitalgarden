@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/raw/app_collections/","created":"2025-06-29T14:29:59.644+08:00"}
+{"dg-publish":true,"permalink":"/wiki/raw/app_collections/","created":"2025-07-05T14:17:04.636+08:00"}
 ---
 
 
@@ -235,7 +235,7 @@ not support fo timeshift btrfs snap yet
 
 ### useful
 
-#### clivm
+#### virtual like
 
 [clivm](https://github.com/AruAVI/clivm-git) is a lightweight tool to locally create containers for multiple Linux distributions.
 
@@ -275,6 +275,10 @@ package() {
   install -Dm755 clivm.py "$pkgdir/usr/bin/clivm"
 }
 ```
+
+[Distrobox](https://wiki.archlinux.org/title/Distrobox) is a container wrapping layer that allows the user to install containerised versions of Linux that are different to the host while providing tight integration with the host allowing the use of binaries designed for one distribution to run on another.  
+Distrobox itself is not a container manager and relies on Podman or Docker to create containers.  
+[BoxBuddy](https://github.com/Dvlv/BoxBuddyRS) is a gui for it.
 
 #### [yutto](https://yutto.nyakku.moe/)
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wiki/savoir/index/","title":"Le Savoir Commun","created":"2025-06-28T17:48:49.085+08:00"}
+{"dg-publish":true,"permalink":"/wiki/savoir/index/","title":"Le Savoir Commun","created":"2025-07-02T14:53:02.031+08:00"}
 ---
 
 
@@ -16,6 +16,8 @@
 > 某领域的共同知识。  
 > deepseek：特定领域内成员无需赘述即可默认共享的知识体系，其构建依赖于群体认知、文化背景和实践需求
 
+[这份清单](/wiki/savoir/goal)是我希望能够学习，并且最终能够在这里有所介绍的**常识**。
+
 ## 常识 Le sens Commun
 
 我想传统意义下的生活常识也可以归于这个分类里，即*日常生活*领域的*专业常识*。
@@ -30,8 +32,7 @@
 
 首先，基础教育中学习的那些，尤其义务教育阶段，应当属于常识。回看教科书，当不以考试为前提的学习时，容易发现这些书编得真好，而且许多考点外的有趣知识。
 
-> [!note]
-> [这里](/wiki/savoir/textbook/index)有一些教材笔记。
+> [!note] > [这里](/wiki/savoir/textbook/index)有一些教材笔记。
 
 ## 哲学
 
@@ -40,3 +41,5 @@
 ## 人文
 
 ## 艺术
+
+## 文学
